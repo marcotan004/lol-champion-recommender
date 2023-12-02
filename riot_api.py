@@ -20,7 +20,7 @@ def getChampionMasteryInfo(SID):
     return requests.get(url + query)
 
 def parseThroughPage(page, queries):
-    playerList = makeLeagueRequest('III', 'SILVER', 'RANKED_SOLO_5x5',page)
+    playerList = makeLeagueRequest('III', 'GOLD', 'RANKED_SOLO_5x5',page)
     d = {}
     keep = ['championPoints','championId']
 
@@ -53,7 +53,7 @@ def updateJSON(d, filename):
         f.seek(0)
         json.dump(load, f, indent=4)
 
-d = parseThroughPage(1, 95)
+d = parseThroughPage(20, 95)
 updateJSON(d, 'data/mastery_data.json')
 
 
