@@ -1,291 +1,1982 @@
 {
-    "-phvtr0msfmicaMOU0YvD84IU-ibqwzbv-6_dpQva7uxpANF": "Ahri",
-    "kXGUuJdq569l69ilKCFDedI3qh-zoLD9qP6uuq1I60SYU_Qq": "LeeSin",
-    "O_xST2RfcvY6uoNC89OssJd2feXOArYXtKT6n7uvCCcqH-B_": "Olaf",
-    "3qi0FT7COJiAH-F9kipRGwHVlsxC9bkpMzvPqykyT832l30X": "Gangplank",
-    "Bm_uOTphLqVncnlvzoHYm9TEAPPwiEsslnZU3CkLsVFuko1D": "Leblanc",
-    "xVxBmj80HTqOH8YaZktrgrmoNvGg8M7JBStsIE19gYCD6Ldt": "Graves",
-    "NugeG1VXRRW606nyjocP-guRYA3bnrC-cpoqt4nTHE7VLrPf": "Pantheon",
-    "AezX3uAXAQLn_it4nihFciWlRqMoalI7i7qnDSV4i1yltKHP": "Twitch",
-    "o0EDfP6andZn8pYYA7il9irP-P3Cap-L9qtOPdLXWlXZHMgP": "Irelia",
-    "ASwpvU9OUBO-5J3EwM-WTRtV2VUOKsfgfFaxwV0bcEDYXmMU": "Akali",
-    "2Vb2x3I8eQI5Fn5rSYvnteOOVWLqt4WrAHmX8NNEhnjewHcg": "KSante",
-    "wZ-w2GT59KxYnCgEwDyUyW6FVXquOyS5JUStfMebA9raSz-E": "Neeko",
-    "C9O_FKbw2p_IS9aLSv_9NiqRHQHhzepBYCxcIWVR2jY2Ctjg": "Camille",
-    "d3_dLYCZsjdxjir_AhrwK_xkRuE7zLtciFjXAQYIkMbyBrEC": "Janna",
-    "3kRqiGGPqeeZ_9g1gcqYh7Hghr0r2I9EQS8ro4Yd7AyU6P4X": "Jhin",
-    "jyd5Lgkuz7QiAfxMLwdpJtukP1inynBD-xrUNB0s5zCfLOFJ": "Warwick",
-    "dBe9QBHH6Eg07nIA_bMZStLrbnGAsCYOtZYbX4akGGwTDJ42": "Ekko",
-    "zJU-2uIcvQmEGga8OYpeG1TSFHu2AzZQcBYbZWB1UvOcp6BC": "KSante",
-    "WTS5KJmAbpGVn0FNvM5VwFrGHrR3xk7f_YalxOIsCV5DUwHm": "Ashe",
-    "PQG3LsPMBBcYzfCO-ityGYeCf1BD0qm_kB-rzbY0Ilf9p2lO": "Ezreal",
-    "w16Vi9LJaRHf9dMKGIA-6Oxqt4DdWCuZGUpVxgNKqpaqfu-Y": "Akali",
-    "FaD8B9c8h4N0x-t9x4d9W7KJ3Ms9HplYW8o8mvTCY900EcT2": "Aphelios",
-    "Nom016g1eis0XpSzi9m7ci6doqbcVESdcAaSBp3UGbMh2POn": "Malphite",
-    "wVoDOCNS1fF1BACLtB8qKc5miwZDORWhfRAPY0u2daPELNyf": "Maokai",
-    "wo7cuRnd7B_VnVh0ihSYlSsPauG0L7eGdr_xHqqDhIR67FS5": "Yasuo",
-    "0bPvbTh6v9YFeqJ1s9bq9i83Cy0wmsV-zOpO_la6BhaG34-T": "Shyvana",
-    "vITGNP9xzmkCPDiF9hgzEicL7OPqyJvbHLjfy7tvVZ9GSaGe": "Lucian",
-    "Mx_VnwrpGYbGkYjeyISm2StGRNigR_ZqbRPvEypy54Zat9YW": "Jinx",
-    "z7IRc5OUYuQt2h6OWcsR1sDT04f2TEaioi7qb7JvuV0Q8x77": "Graves",
-    "p-pn0r25PmmOR5bYUlLvFHtOr-TbID8MROV91lXgLVRaoZ_1": "Mordekaiser",
-    "ZgR3T064NnTsff7w6yvgLgyO13I5eVWwWcZ80u_fqF_2IdVC": "Renekton",
-    "kfLJk1wB0d7-yqLku84ufdNubov7w9dQRf2GKXb6xuy9rbzD": "Jhin",
-    "8heD7A_nMoewWlsrnknvtzB9i6nOIy9ILawYLlCuz1aR5sjZ": "Neeko",
-    "masttMM3nj4L0_u7gYgCH3mn5DGPGXLb0LkqPfbw-OuAjUPc": "Maokai",
-    "xIqnrhNAAvOzxf52cpzrwO-0mpYWm0F2R3kIVHFdF2cbMh_s": "Ezreal",
-    "baWGr-QgV2O077YcXm_h09ShDFCAtEhaezf0LgOlhE3n4vdV": "Sona",
-    "PX94NUSY8UFFExtxgaMiiVcmdAwL6jDLY07MGrphyFhX6hRT": "Nami",
-    "A-8FgSh3zWD2ZP3yVM2ShJRWAP4sMLPLMLPDmArcVW9-NIbt": "Diana",
-    "O-66XAzIfx3YstZt5Yh4AIvSYIerEmFqz19AudJC4i_iip__": "Fiora",
-    "bOxZdF-X11WAir3OPr53ZIv14VsCJJuwI8jB3BLHAXCxP8wr": "Kaisa",
-    "1kn_bIokemEzKg_Z2vO9eM1ybBdzGBtkh5ictdGIb4p17qo8": "Ryze",
-    "qqbrQB3D_PcPQNC7AkJ08nLqjES9Mx_t0U8a0SnFaLZJMGun": "Nasus",
-    "XV1QhvoAerNRezOVfFbEQ_679Uc_5yjNX1-1EyoHD-FRmgG9": "Tryndamere",
-    "L__2TGtiYEodZR7EIrpyGZ7eCAxjUPEVG_QZEbvj_8MaL-1k": "Sion",
-    "xNhLJoHc1SgWO8tB16YYs_FmBMYwzqMsT6xRHifPrsrjbTVq": "Ahri",
-    "vmto-R5gQW9hXJWOgt8iG5UmuRxrXITCQxf0zhgmFELLkRvH": "MissFortune",
-    "NzeNh0C6QVrthFtIoh7GQLr9Q1KGPTvAXQ7GblvK4CMMrh7R": "Nami",
-    "MEOOrhXa4LYOsymFXb5L_4rrQ3kXEITf50nyI9xdjS3oQPwe": "Katarina",
-    "4OJZJdmvwf5DozGL-Vk8J1HWRpgIuUGc5YGC3PAPe9DhIJqa": "Mordekaiser",
-    "e4MCj8F043vHRgua-wuAaIXA7zU3tuJgT0fBRKoa-_ZiOsZr": "MissFortune",
-    "qI2aic8x910jmRWtDzGdT9ihXS2vDkKjOMnvo7M0JAU0edad": "Zed",
-    "icYLw3bQ9XR5OEETd56idlOVGRHt6V-BA9K9zfurCtpwi_Hu": "Vayne",
-    "TEWBEbJ-A_hGQ3zNWoRfBgF9HQNVorUiknLIp4pFstYD7mfb": "Senna",
-    "0O0goKJ0_GJIMfcQT6BDxtkrWF-GtGqaUKS7HnInnvo03hFt": "Leona",
-    "Btgq2w7rM5tZupO5S_Uc-pOTr1iN0xQpemUlNFVrB5KRJKqv": "Sylas",
-    "8oklK5A_a-H2Fj27Ydow0F2xhycI8ITPdG5LuBt4T_NE5cws": "Hecarim",
-    "2bzxSjdUgEsfWrmuHKE9HYsXO4pMVgsd6DRKVignqeYYDYup": "Sylas",
-    "iwpfG-Z_1cDVxFJ4iuVJgLm-hNt6CuPNAejtKPOa4xH5dNlq": "Lux",
-    "xvh_4WVlqenN1v-7neu6jy17JBteFWJ2u2BPNhex03ZT0YWh": "Vladimir",
-    "cshg66h-h7AMIm0BMcY5VHzXjSbi0HUNqeP-kC3PjHqsbO2T": "Swain",
-    "eFdgPCpco-mkIWvtcY3enFvU1-Xbn09VqRtcynufq0JZs2vj": "Twitch",
-    "b7OdW72ib25LmFLwg6Ju2WuTPFGaJYB2E9JSQTyGMZ4C7eiG": "LeeSin",
-    "OBzhEyp-_LUQCYZUhk-S1jkdRA5f3l9omUhOmT9Rla2kF3YE": "Gragas",
-    "OkAfn21Kueq7I1kT3ds_ovWANq8P9YTOQ68KSJZWkIi8tDmA": "Jhin",
-    "Pw7xvsIHkdFRTsBS4snJoOPoK4EHpwk3yzx9exeWDgK-CyRs": "Rakan",
-    "E7WYbwH1rya-DM-CSRntlgQU24LejaUziJcsorjYTw6Gre1O": "Aphelios",
-    "dBBsdWrVBjuJbapzM4VK7sMIOFrEixLW_HMedoNEdSuqABN1": "Seraphine",
-    "zFjfs7R96u8yNg5NMNHGzpd89D4YxFMe-c0wNrVrAWcSL1xj": "Gnar",
-    "PvKxbHWc1JT4oSm564xMC_z8ZbL2VhwSmaoKtsGTOAWEwrsA": "Syndra",
-    "y5cFp7YcHfPH7MeYKep2SHspbsfVkqf2nxJaBNNbkjvO-3l-": "Aphelios",
-    "IzfkZ9pID65tNiB4DZjhjLB8Jgwdt9kOA5bLaETGxlFCCbiy": "Darius",
-    "i1CpAVixjrAAHPV4R7RkSZLHRd9EtNbYuFw59-aNcMJI4zm3": "Sett",
-    "-DixmK47GM0bZtTbd-oxD9QkD90WzWOb9Bzgw3vNrTzx7AAd": "Ahri",
-    "X1ko4a-5fLORzcXpDADiPoJQ8ti8z-Nc0p6hdKk1aE7ILSG8": "Sion",
-    "XQ2TxrAdC3Fjf0ktaoEJ0H-nhjkpXsmUNYmuUjXIAP2wvaok": "Corki",
-    "5BJNdA4G3640HpAWWRsFyRhNVvnNW6bGOO_wdSxDL0ASNSN1": "Pyke",
-    "NdBwBfdXOLwX09KYOvf2acqGii096m4mKCozr-1kpMyA8oDn": "MasterYi",
-    "dgJGlkm9i2MqsphtI0Wz5X9om2EuKhhRKHU8FMlt3cnKsq1Q": "Vayne",
-    "PWD1WSDXPyahJ_8wMcuVpfCf6kLjxz7KFBQiES5ThBMaNUd9": "Aatrox",
-    "sUDaM3coF6oXcLel0ftwtXFtFIjxJWmDuxKs85iWHhHJyLmz": "Nautilus",
-    "xUy41LrZ7FSS09JiRFt0Ezkd0FxCGCWdRmaOVVqcYxayngnJ": "Viego",
-    "qQ0CUOz9wV5YakvfoEhd6ERfrx741xSOvjMr_TUEpW9IXmJx": "Nasus",
-    "ABoSpu0VTYz7GYWmgjQadwlxmtHdf53sEb6lKJI2_chczb39": "Xayah",
-    "bcoQi7_c2aQE6RIIxdH-QSDc9rVyLrhzHLbrWY6q5Jn2teg7": "Xayah",
-    "MHhwwn33AnByHbSnhQxylJJQKPqxTfcs-Jnu1KbeRjJQRzcX": "Kayle",
-    "6qFcJNNVIIdok1OPANYJeRNyQi95GH5MVhFgWuXWmVB23bfF": "Xayah",
-    "HWXQJJx9ofvQPLxH4rXoWvHwmsId-43li9cvvl_xsIHKCySF": "Lillia",
-    "4PdAy3wK1a8fdGujxI7-UZSlK_Nv_kTOpJ3Ytw9uRnGt7Bmu": "Renekton",
-    "wdbxtAF3FfezV3rHownQwReW6qwMzKsT9zq3PMBGdxRtfb3t": "Morgana",
-    "0qbp_Y28RnXeLm9BHARwl1PiwgOXfApf3LBAxab3D4JBrnf3": "Lux",
-    "2C-rrtvVm_xn9fScOwObo2Veyn2psP7QF4eMSRjgH-epfTdm": "Pyke",
-    "8FjtcfRPR_F_mjF6Obkh21cGjWSZbNuk7eTb8p_kjs7Q8_28": "Camille",
-    "9en2gLNH7Mt22q52pjJ5c-OOmgpy451zxmaSQUkQKMtVWE1P": "Yone",
-    "Y_-3JzO3HqE4wwdoMRwB1F8i_496r9-BNS-Ltd2htxEAjMpF": "Kled",
-    "gBACaF89d6xLr-IwFVvpbvy4ieinyi9Gi68Hfe-eXCTtzwGH": "Mordekaiser",
-    "cIDm_luZ-oko9KP4mMNJuhLbCDF7BJvUcqCxNS54BLa2zPro": "Shen",
-    "Tn1wTZMs2qVpFQgkSZRYmZY2dJ7heQwecKtsi47fUTytMpBl": "Yone",
-    "RhEyBCGkaEE_wl24vgPzVbVqcBouuxgn35N9xsOPrtTXZjFx": "Yone",
-    "W6LbUMq5ALOwD5BeNwPNqGwyB8rJlKVLoOd9cEW-8gAHRBQm": "Garen",
-    "rimoTGaFQOYadM4Eog3mcOacoeAbRNT2bk3y53K3baibPEaC": "Olaf",
-    "fIESVsZzJ8PPaeAzmfutf5nj9GFb83Sv3dYN_G2UPbtXF_6s": "Aatrox",
-    "ELvs2GYJyGzHI39Sj87W4ok0Own4Rsbt-zzG-HfJKWBFShHJ": "Kaisa",
-    "pmBoFfIucFgs9usaIkQn7eB1PnseWby94MPZnwKV71tdAM0i": "Kayn",
-    "Mt1w7y57qu7BZp_6jCbXTkdFwC_MVYg4wvRXtSRJXo15VRtZ": "Kayn",
-    "yiYnbzihx1drZpCMbbmWY58W219NiIgT1McCfmKJa19jKcxV": "Gragas",
-    "_BlHNeuPEoSSrqsGBgiXOEkZ5d6KRR97-f_zYLFfN6RKGIWB": "Zed",
-    "SG7H14ANNZtEH5jeNYEhKkcrqgNeBWVtQx_pqFVXlIbgPOne": "Zoe",
-    "lDasy98UsklghswnSA6wEo9U9WglgDdk9JfMVAV9S-kwmUqR": "Leblanc",
-    "OAtmV-NTVwHUGYXQ8etu6PgrOFf_pjqLdizwvtVEWCh8JUeI": "Olaf",
-    "LmQTtHWtNrBmpJPeUQColJThcinLT0l28qF6EHuxBeKqRBRr": "Elise",
-    "RlCPG5bTlnbeAJclIZAIvbyHDvSDRjRop-oOIxaDF6FvDbBO": "Xayah",
-    "c-NjrgLORXZlU6mqHloQuy1_eSi2urofGALynEJJ3Dqr3jZI": "Jax",
-    "3Y1nynghBV74rYzB6nw_ew8cf1mRGuIEITYXtDaIondQD7sS": "Kled",
-    "2saFN6fIVojbjBGerDxTKj7gbKr-RSylh7ULZEABFxhyeaHi": "Vi",
-    "1nr3cxUmafogUXgvyWjBO72iIaVPRXvi_l_ELOWjIjjmV7lh": "Anivia",
-    "bQChIEO3voKOrqNulggjBsqNrWQmHXbt8uY5im9MdYDbrhgX": "Hecarim",
-    "ZBgcsJ3XQFwSC9bC1dl9uA-6a7G24rTjulrYsZktN9Gw8yek": "Brand",
-    "r54Ek-IY2A3Ftcm3dxyNDz7a-MfE3cqRflCcDMyAwfjpX-E9": "Fizz",
-    "5IpmeGj7HGQ9BQRzWhpnLO5WA3jqVdZf-EHoaPh9fk5ZkoB_": "Jhin",
-    "zbsjvJTpGR6VAFYdnAbSLm0705IYc2NT6fBhN8KaXm394uFa": "Anivia",
-    "V06Yqb2Z4dZAZ3hKutMykO_1GIInoD5WAI1uXMInOqddMjl6": "Graves",
-    "nFOu3zdyuvDEcEMKYx6wgZEnkybi5X4iFA1LDQqqKTDGePwJ": "Syndra",
-    "-5vrwI1Chz6dFJPM6k3HpQjuvMueYBug8ZsGS23gRg5bT8uz": "Volibear",
-    "Hsn4UII_SHGdYhbxQetnVBx-N6OnwoL2sz0E-J8p5sBBK67d": "Kassadin",
-    "1xOfEBoGuIKqbcxGMJ4Ybxo33pGYG2EgdBQchVpbGcH5nZy8": "Xerath",
-    "iHMfw3QkBYu09u5Z0-XqnACbEzqXEj5VoJq3GaYDQmHP2fID": "Fiora",
-    "8lbT3HrgumHJfm-XLw2JFQ8RnosaspJWnWNbTp8VhNme56e-": "Kayn",
-    "dkMTqn1HsyBz5imFuVVPXsM10ztfTr66Y1BeN8Rtk7fRQGqo": "Janna",
-    "IjgAd0qHFrL9-5T5cRgTCRsI5gGkA_LHxShQ64r-h3rQcOg9": "Diana",
-    "EpexERYzCs3RvIWjHq_1DNjEA4-woBMu9GvZECKe_pTjDmW5": "Kaisa",
-    "GXZThtLmSVbBDMzjbUFPCHOcJMXx5cyCULYY5Ui6IexR7Jii": "Yone",
-    "RMnU9NEsXk3RUlnhKt7j05LQbCw0EwgVGp0VKm1lwvFA6Qwp": "Zeri",
-    "AdxQhzGCG-KDQ2ZDD60K0vvFHlKxxyT7JXVtJVg-DiagOGFy": "Graves",
-    "v_mv7GH5SS88VQq7FLZB7WCFDTyDBsmuB_kUoEZYneVToxOy": "Viego",
-    "7qrSAuoMzDKVwFh0W3pJRwPIRYj0U_1wl2j31TiXP-Kj7ooE": "Diana",
-    "Imu0pcJ0HhoGEWO5nLS-MRF5Xz87_3OMcaEsfDHPMZmSVjPs": "Sett",
-    "cygbaoO65gZfcMgh3P83SMlzjFSL6r_T_DZNEPQ7qJNJtaSg": "Jax",
-    "AZMK05n2_c9LVzUMyWsKkHTUpXpaRZZ1mQilp35gl8xs5tQa": "Lucian",
-    "NaguBvxbfWxjTFUaN0r-I0f7RDCpLnaJ2VuHur6k2CuzSLo4": "Sett",
-    "tJ4ZMezFQ8hVZN789Qa7zMmofF-gUUPEM9hof6vKTLig99RS": "Maokai",
-    "-50oBKdD-JxZurgS_IazUIVic0jHQvUymSGio5ZiJDXNS4wR": "Fiddlesticks",
-    "tVevWrq39Mh5uvJibjr-fu-t8sjfs_n1KL3WclIq8U3em-vk": "Yuumi",
-    "Zc9nynARL-eX2F61TEIOzN84mjAAP0unDzN73PVqN2-32UAM": "Viktor",
-    "WmWXCTDONDF6iGFBWLsp2xZYc0CAvM1bNtcyv9p35EIWjr0_": "Kalista",
-    "srMA4z9zQwX9E27fBfqtUmfK5KZ1D0OpRAKPUq_qslKSnd6a": "MissFortune",
-    "23YEQwmTxW2HEA51Gr6n_9a3qSBp1nMKuNNd4jAMPMdWTg0s": "Jax",
-    "SyBC2mCs9gJQ4Of-qGH5CDdfTcAg4MN67N9yZAqp0R_6G8bw": "Aatrox",
-    "_wMzzmwFc1ZkMbyKPYBP_k7-tQ0ybe6sWY6baqxmLqBo3qa4": "Ekko",
-    "KvZMUvnLN7A3hsflhcFn-0ymy5br5mhALYT0gRvc_ReByKCf": "Kaisa",
-    "gBW6JR1JOZhVAb7V6SCIzv9X0AQHC0SO8wxyCvciKgW0kM0C": "Jinx",
-    "X2oTsMwEyOCpGZupIPNrqdk83FuK9Mv49i-wO8Uqs7mii9Dg": "Lillia",
-    "9l6MJuT4a7dPmXvhDlY9RuUToYgzu1SnC3KmM3t2lfq8xCMH": "Jax",
-    "lxr2PKNdCZq1Fep6bw3DVa2Wo8oIDwn-QEsbIi424tE-DixX": "Twitch",
-    "DYH0p1o-SOokbALPs1m_TJ8FjqOoNFuwX6hBKvHhVSdyxdXO": "Veigar",
-    "onHa91v-jg-AXMsOY-bqrTsBvW4i10g7tCoFtaCyy0zG-g3G": "Syndra",
-    "3te0NPRo_AwWsbIq3kscYisNbbyRhP0CEWWzk2Y7UIPTZSl2": "Zed",
-    "Lbq5GwitaxF-8YuMpdPta-kpotLordRvYbhSUjSBCtqgrwdv": "Karthus",
-    "meHj-pRcJd81ZfFn1n4ZQToNJNDPj6XdBN5xjB09XBYhxokv": "Lux",
-    "-GoSt_CfI5v6j-SanULZ6S1xQ0aEVVh8XkERY6GhvRXI4CdQ": "Sylas",
-    "Nxtm4q5kmQ63HOixYjPISu5do12UfBlsRhlRydZ9l1IdrB2C": "KogMaw",
-    "Ca48Qxvd7gFEydlPbOE4U05wrBWFSrY4DIt3Kt7exuh3ADJ9": "Belveth",
-    "NfRnQ_33mTP1buKkGpyor4DHC7XZSPd11nzZgrgCcokK67cZ": "Taric",
-    "U6PYwxnBFdGJl358URFQ38cVaSXAe40dznfRJLdvnWkoGzHA": "Xerath",
-    "d6Z6E3cILc5s1-GstnfvGY3LT9tbf-qtkQWnJ9oNkFjUzK3y": "Rengar",
-    "O9RIbuxYz6fXnSwjm29qTmA6MmFq4Z8I-zHsYyeAEam1vORR": "Syndra",
-    "9NrkiTYKnxtzgXaPkeW7XIgxLX4-q8qcsvVx9CHUDTp7Z1BH": "Urgot",
-    "0oeuf1l2mXHa2go1w3cw0VHwztsEsUoB8d11-ARVSVRkPaP0": "Hecarim",
-    "XBWNU5Q6y5INhzAVjeVnP9sADwHx9686dw2ZOPxz_YCbN-qr": "Garen",
-    "yLLYInBoUIHB8DB-7nD61eba7-yObJ0IXLzQh1XQbQcF1ypk": "Xayah",
-    "nnAPWQOBvbFPx-Tjyw8Jd0vii9WlIM-DJdYgmcSxBzMYvf-e": "Viego",
-    "2hQEY8LJNbWKFhWWxIJdTQNM9T3JWccX2wjuCO7FO65PoZRj": "Lucian",
-    "lXtn8IdNZ9_Ysh8tMCekAGwxWf3YpEB_SEgBxkTm6NNOR4FH": "Evelynn",
-    "hN3bqb2Asq423h2A6xPkQKGOfZpduFrf5hpwOakH9sbP-OcK": "Garen",
-    "FNTk9I1remRZoNpzUdYTslKCwJNG9-yYqLulSWUigehn-Tyo": "Aatrox",
-    "bRooiHAwIFqSqTlz_BMIBY_Ka5jj7fA5nFOV_WyOURkY0Twz": "Nami",
-    "blfG28xG719Vr0da5PR-tHOzGr0NhNcQ3RESMuNTUZWNFqLe": "Ezreal",
-    "QL3hDhFA0I0DreUu5-qECkNOtjCsGSjOD_z-7hof3oQwRne0": "Akali",
-    "bz3lFv5qZYv06Jnk-1_NUqZUOPs7v2DbihIfhx3YDLohMj_Q": "Garen",
-    "njrc-I6219iICT8cenIq9EFf8ZEP-SKrwf0kGGkZh65Uw5jm": "Ezreal",
-    "vs2eGOtsqP1eshc2vru-RMCIRnPk-oDKLGpaO6Vo_O28aZFQ": "Darius",
-    "FB8WbUvzYM0T1drhEBAI1kdsB_2iTzWulXRA8Sj31isE2BTx": "Aatrox",
-    "rzpdP72StB9hH354tV2M9_tIGGfxbM1sSMT2BkeyZjjZtx7P": "Yone",
-    "nbxAdcBd5e5lNn5vXmpIkflapqNUXacDWYf7PTpU5FA88lbO": "Kaisa",
-    "VDvCpZr8hFRiKkvx441zuPu9R9_o5xhgJ5R5k5FwdXDLtYnG": "Diana",
-    "FpVZvZHtgkp72x_S4pi5wi9LuXU3mLHAna02uqyutbXcZ45X": "Caitlyn",
-    "PY8Tr7HG441N3HmOhYo63dMVgqosSGbaSgLaNm5W5SFO00tZ": "Pyke",
-    "KZwvn66XVL-tBWCI3Vl9yyyOZmA7dgKjNKo3ErMaoCp-M4TR": "Shaco",
-    "Tlf9ak9XCbqO0xjj-H2cmvJ-1QCSBgDc0wHdobUrj70dQaVE": "Akali",
-    "k0L86zxjbt5uhPnOFwbB6B2b8fsawHkm3bmXcmHOue70Per6": "Rammus",
-    "A7vd_E8rRbCh0gmg1FNgy-FBwCdiTcKEGihmTqOG9vSHdZZm": "Ezreal",
-    "cS5EQeBi36yexuTAV4UZYe0lp-elpXOOGJEE_2iwtsHWLw1B": "Thresh",
-    "VEFe5FvQ6pxibfmvJESUl9dCAjPV5j1sWdpx18Aoe0Xk0kIR": "Senna",
-    "CZTJnGQvt0suyegC5wyjpHo14WG6OoOXjUtBdB6IstnUqPFv": "Xayah",
-    "NKD7_QgRPsupZUKuW9e1pyv3HL7pE4AQb9CfBKBpEdLtbWyz": "Ziggs",
-    "zTrYblvd7oSxEylaoDXEPfEqd-1rR9rKCh-bozN1lVOPlvJx": "LeeSin",
-    "nT0NFN7XlZYx6XIkConF_t_UFJYI6aW4K2V_lHILn-TS77i8": "Yone",
-    "duqGE0fLFGThqHNa5JFiMKdXH6EuyBXSCspgJB0car6ftaoR": "Lucian",
-    "5-iMsR5-qmFlauNGbUd6PZyoY90P16GEbpDCnSgOdf-lZskM": "Vayne",
-    "UxyAq4EcqwBDH6dMNBn9S6nosZgVk5X737dwhJz2ycgvaLMh": "Sivir",
-    "jD1dDIZr7-yKrTsBXsgT80E9hUaNmn4Yd0SHKAXtfmu0leMw": "RekSai",
-    "DIZtQLN1Ctotb7YCbn5MtUeDaMOaoyfn8-QiU0IponBEBX2X": "Aatrox",
-    "mj8rL8yEh2cI0cjmCJkNqOW0aWut326hgY7H0uiWTdCLWWgv": "Jhin",
-    "qImdoE4SR5y7ErL9PPLcXZV1QvKrwuo-zM2VqxlKEVuOGQRI": "Viego",
-    "9JgqxDtyxd38AbmjIe39gQlYp34xgIxRG4BYV67kevnmDPK9": "Thresh",
-    "_3gBiylNIElRIgdEGIv_WDXVf_F1OWJJ9o7iooplw8SpSrXo": "Vayne",
-    "u5458xWAji3N7dM8SrjWUyP-AhS1sU5DeRCLMxs28V6-bzC2": "Mordekaiser",
-    "IlPgTeJNpHvFZMkqCVwQ_yVAlT6gk88SYSNHvLW1zjJi_TIv": "Xerath",
-    "bNL_1iNKv0DuaO-eBHDYkn7RMg0xSj_Hs7NVFSq2-k62NOY5": "Blitzcrank",
-    "_75Hek2vVnUdNwUjmV_lUTffekJxgNLkQwW_TrQJ30_lTxKT": "Tryndamere",
-    "smaPrDYHbOOs1vGiNXM1z5zqaOLWsV4jMsOYJGZCnGFCZjba": "AurelionSol",
-    "GR95Sl2jLTTafbBWx2-0fJSlyIck_EzKCytIufa0Lb3yRu-A": "Morgana",
-    "eY5g4tJLSoeDqQg6pUSS04qREzK5-_UIalzzrfI5Fh0kXRHw": "Twitch",
-    "qZ5MZM3wirRglMODyKaIo6h2GE-o9gKCmFUdmckWBztoi2BJ": "Lillia",
-    "Cn4rwknxFl-XyAJ0jT4OQNEpwTJvAQh-ZyGYp9kFMzKQX7Hd": "Yone",
-    "QQfpJPDFJWXbmvpD2fza60RbHejS0-KzFJpOxSRxPJSXU8du": "Chogath",
-    "tDzrkV8ycJElcggOHFQj5xsmCG5izwGxKzDMY0_ycykP": "Volibear",
-    "KwWukDr7iYxg1RvVyQMrEgrpg9_YZ2W8cKf6xjbQ6zgdpMo8": "Zoe",
-    "Ejergihh9s5yDAULaSeOcmprPowZCuikCb0UAVMcn75XxKfA": "Vayne",
-    "bHueRzRPEMJC4aDzVahj67qguvyH0LlvdTwimvQOHw7P4qlI": "Fizz",
-    "BuprDtvjEsnqJl0GRyzHo66c7-ujmnFMekuG6_NWR5vy0TNo": "Kindred",
-    "5ZmDyBaK74CS3yFD-ox6_544E5aG1U7xkZWl1Y18oGBuHXgG": "Pantheon",
-    "VbvpBzTEJ0w5g_9T87eELmfkKAGczUsDvHwc240l4VKZnjZc": "Ashe",
-    "6dYFgDo43qIG7GTupk83scnStR-f97CLryCJRn-YsymHG9VZ": "Kaisa",
-    "74qPG4wV2ipTzh4H9MeIAD9R4Au217RqWYABKiQFIIiuDJ9P": "Sejuani",
-    "2ZjyECYLXK9_-GZiQRMWuW10So943lUiLXuNmPpSFG9-RVT1": "Caitlyn",
-    "6L31wuqqVYCM30tSMTnQAkv1qIwNuNfeOmMNyimnAsrJZrV6": "Pantheon",
-    "A9IZLs30eV1EhDFSIrwV26lrOqNTpqmruYp_Tt8d-ZrDx9Y4": "Khazix",
-    "uAaoX7tHVwkQUpXjDMs5-kv1ahiByMgwr6isIfMg_-B_HrgQ": "Ezreal",
-    "qAqjiVdAFxxiU8hB1H93Ni5pck3EyZ8o-B2_nblseb85sH37": "Ahri",
-    "R5-iKTpk1y_61CPlGs7TBf3Ky_TBxJiZPaq4R28YWvY-H-mY": "Khazix",
-    "bDkfkZkk2x_DZw1LohkTwq9obWs4VhzFoMts6R6A_U-fEash": "Nasus",
-    "74fVWgpjU-xDJ7pbMMaaQZ7SU_dhm3FuUkruNTcQ_X48tNSX": "Samira",
-    "5zc6-jRP78lewuapRgVJoxwYWCTxo0MA6TYBHU2SI6obqlNF": "Thresh",
-    "pyNHaF7WzVFrCHIPCDrVJ8bxa1p4YZYbUjSdSt1srtC3U68m": "Akali",
-    "RK-AqmQSJX-r9BVlT61lsuGzt-1jXEVNImCk77j90OU4QyRy": "Pyke",
-    "mqCrrOZLqTfYX1ng2hLs4FCNKbvvmutY9B2fgjoUvQ_j_5pw": "Nocturne",
-    "X-I61tBgyxfR_3BkvmzWiMF7Y0Gx2zLY7SlHZ0cyZ6tUwrpB": "Jhin",
-    "Ikep5j3Ri0oagO8tGlMChSlqTMHOuxkGvHdtH8k-IqwNE0f5": "Jinx",
-    "i7rViw9gIGM1pZUla0MCkGXMNAjr-r74PnI46HLZEjt_AB3s": "Vi",
-    "GQ0XojOuVGwnJ-PE8G7vyjWq3vF3uz3kE_xhgbghP-EiRzvg": "JarvanIV",
-    "xHDYHZTbMD-rmt482IxCdD8BXMLzpjBKOwfervuZEipRzVZ9": "Volibear",
-    "HL6JJ-IL9mRt6FPzlowuCNO4C4JwQSpCMvIFmSUXfs20mOIr": "Katarina",
-    "NPxYt03GK3-TuawS66qu0M3B28XZgSfUEnw-HldniNPuPQ2p": "Twitch",
-    "iSZQPh8GuujqfCs7sfMJEuKyxirOgLvRjlm1wDb3p2BNYIzk": "Yone",
-    "7B3DWHzpe9yukrUh3jisdPosNIDnqp2ZpVm2KC4eBNWYFsfJ": "Jhin",
-    "Tt_3oDl7heZHl5ziu0tlbMrKMPqzXGbjK7w47v-jIHRqL2Y8": "Khazix",
-    "cXYhpl27QVJK83y-cummZwJdCGQ2-EXOeOtWw1dtMhrn4YqC": "Xerath",
-    "l93lGEeLMs07egIn_WwMEx5O0r-Of-hQO7btWHd6-0EtDnBz": "Ashe",
-    "EiRZCLxvCXcR_g0TK1e2ILvDzq93XPZpERnCwCW40AgqoEWX": "Sion",
-    "gH211m1uKTy8RuGE5jPIneVor-SFkFIATMRty8XVXSv8U_Fg": "Xayah",
-    "y3Vtg1dndFJsYNhlqMdKZBZk0-Gj7CXcEx8mvX5IbHJWAPwo": "Vayne",
-    "8wSwwm7LRUAB40i7YegUNM4XveBVu-vsRRndPTV6nhOVF-1f": "Fizz",
-    "x72jS1P9deowQSjbi2qPsWDoqfBVRIszaIKS2Hla6To6EA6x": "Warwick",
-    "gkZhR0PVZ7v4Bn2VaDZ4VIFpb7F6B95eZjNQpqBvdaR611lc": "Camille",
-    "3-t6P66EYshjQ9QM0o3M-q9vmjcQBo7hc3AIuaEM2sHBqBbK": "Ashe",
-    "hMU4nvBn71p8ReRQ-wWrOTmVGk7JiWFnuaX6xxMkifR0MP13": "Zilean",
-    "XdM6CUbzv1-LQ8Lsr_i7i5DjMCF1q6nDuzHiKp95sLs0i7c1": "Sylas",
-    "RSPgEgmTzSudVfWhQc3ISGPHIftTVTN1vtktA88ohkmjBgt_": "Talon",
-    "BJjWeCfY-f9TbZ_myfk7pjhis60wlqVkwN8OleMkJk8nOa2U": "Talon",
-    "VPD0GxzApOjIUZUxJt3h7Gx2WjVWlR35Gk0qnYtMrom_tXc8": "Jinx",
-    "g0Hq17f99iYIkTz0_EGH5TFLzMEBHN5--u3RvfFO43UeTOHV": "Graves",
-    "RlteVSsUoqys8lDwryx8edLe6V2uK_Ii0_j2wmNqAfWXJZB8": "Lux",
-    "AUoA2lFENDCN5JXEgIed-8EfzXpUc8DwjJdsMHPv6qn6KnOh": "Aatrox",
-    "ZNX-1_F1pRDEzKyqzGEXhFjUZHn8tHkITn2otIP4fuucFqFu": "Talon",
-    "boVNAgoEMYOG3ZOPDqGLF8EKnfxYtqQZQxYrmD0FQxY2APc8": "Yasuo",
-    "weJ-70B48f-Jdp_uxfCTJZ_Fcib4MJlebY6CmLHgrDt8ZZ_t": "Sett",
-    "h7kjNcBmh7EtkwUi6QeoqlIUOBw8MZeAfuY75fsFkig-R7uJ": "Syndra",
-    "NDM7REx52IlSGRvV340CWGlPobUoVcbwJHBK9r4OucqUkO0d": "Jhin",
-    "LcqIr6tCcYCbJlK8W9rdntKiupeEZQtt5_NzXy7OPwMTAVIp": "Ekko",
-    "jKzEX5Fb-jSbTfurY8cQ3ptTxFUgd1fs_qgz1hQtqTd4J0Wr": "Nidalee",
-    "AOSig0hDnLU-ze5o_VZMEr8V6LC6QA8l1YEkwFA_tFKJtZBL": "Taliyah",
-    "ZTKjVvbsXEFcHjOiYHB774gW9dbNq8yAXDkR6YyFzAmsk08R": "Ekko",
-    "_eZwmwIq_-oA8PRcz0tQMC4E6YwOam2AZMKvVpPHaYkDpoxm": "Kassadin",
-    "M67uNxlKfpiZFAzsyvqcczqIV8-H_QGmzWcLvrytE_dDzCQE": "Karthus",
-    "2snxAeMiD63npMTcRUFMlZr0jtVNU1XosHSXI6wdsVCY1rOz": "Lucian",
-    "boe9Lehk22_9JGJTzi8xNyo1VVd1wWqtU4WAQzBtBvvAhqPs": "Illaoi",
-    "u5RhzYSJQassZSFehNv3ss7nw_A8KkDTn4TTAtwFUNPEyaLe": "LeeSin",
-    "1Y8vjO6RUWQRlLOLTee2V0EIu58l8DetnuonanJDK4p6Lfu5": "Diana",
-    "EeomGeStBgTfTjIoZYsTHJ2vQOIfb_FRwO1WK1WPIcVoTjUc": "Hecarim",
-    "kA--mNFB8Fk9Y9IGd3ELYib2-QFo2t3OdM_XjwQ3xopq_APG": "Kassadin",
-    "pp8pRuiWbVqWZXAjOWXo4d_mYvKKr2MXbAKvhJ6hPf7fsdBu": "Aatrox",
-    "7_OHrkIL1nps5Bo7sE-svmt_BaGCsfdwDbdxUCzEEhyucXXG": "Camille",
-    "FKFxu-cE5Mkl4lS3E7mCpDYIEYgI53CEvQpmssqo_gsA3LrB": "Yorick",
-    "YFL8Kx2ilVKaWCIbanh9TWGFRJXhec7A70c3haOxfgeu9vKG": "Jax",
-    "636pVg8GKMbUsM0P0tC3zHKu7qNOL4SVQfnp-11ExYSUp8KU": "Ashe",
-    "vLBmHcrSIa5mMV6QyMM4VjTZkavyfRUjGt_4AW_qlimVcFll": "Renekton",
-    "QgUNdDQf5ZTKI0tDcCy7pQuFIHbppiE7ZYOY8Xaz39O_seLE": "MonkeyKing",
-    "l8QRP5OOq81GY93P5pD_mKK60kNe6CKa5G8ojpbHHAvvDm1I": "Leona",
-    "8CsQTYr84GsruHIWBjwVWRJkBIsTOwLzX-36EvOSwmYHMN0X": "Blitzcrank"
+    "-phvtr0msfmicaMOU0YvD84IU-ibqwzbv-6_dpQva7uxpANF": [
+        "Aphelios",
+        "Veigar",
+        "Vladimir",
+        "Annie",
+        "Ryze"
+    ],
+    "kXGUuJdq569l69ilKCFDedI3qh-zoLD9qP6uuq1I60SYU_Qq": [
+        "MasterYi",
+        "Hecarim",
+        "Katarina",
+        "Malphite",
+        "Ekko"
+    ],
+    "O_xST2RfcvY6uoNC89OssJd2feXOArYXtKT6n7uvCCcqH-B_": [
+        "Kayn",
+        "Warwick",
+        "Trundle",
+        "Illaoi",
+        "Veigar"
+    ],
+    "3qi0FT7COJiAH-F9kipRGwHVlsxC9bkpMzvPqykyT832l30X": [
+        "Lissandra",
+        "Janna",
+        "Ashe",
+        "Morgana",
+        "Veigar"
+    ],
+    "Bm_uOTphLqVncnlvzoHYm9TEAPPwiEsslnZU3CkLsVFuko1D": [
+        "Kennen",
+        "Lux",
+        "Zoe",
+        "Vladimir",
+        "Camille"
+    ],
+    "xVxBmj80HTqOH8YaZktrgrmoNvGg8M7JBStsIE19gYCD6Ldt": [
+        "Jhin",
+        "LeeSin",
+        "Gragas",
+        "Twitch",
+        "Zed"
+    ],
+    "NugeG1VXRRW606nyjocP-guRYA3bnrC-cpoqt4nTHE7VLrPf": [
+        "Ezreal",
+        "Leblanc",
+        "Zac",
+        "XinZhao",
+        "JarvanIV"
+    ],
+    "AezX3uAXAQLn_it4nihFciWlRqMoalI7i7qnDSV4i1yltKHP": [
+        "Xerath",
+        "Karthus",
+        "Morgana",
+        "Trundle",
+        "Soraka"
+    ],
+    "o0EDfP6andZn8pYYA7il9irP-P3Cap-L9qtOPdLXWlXZHMgP": [
+        "Shen",
+        "Jax",
+        "MasterYi",
+        "Zed",
+        "Yone"
+    ],
+    "ASwpvU9OUBO-5J3EwM-WTRtV2VUOKsfgfFaxwV0bcEDYXmMU": [
+        "MonkeyKing",
+        "Poppy",
+        "Yasuo",
+        "Senna",
+        "Irelia"
+    ],
+    "2Vb2x3I8eQI5Fn5rSYvnteOOVWLqt4WrAHmX8NNEhnjewHcg": [
+        "MasterYi",
+        "Jax",
+        "Zed",
+        "Belveth",
+        "Sion"
+    ],
+    "wZ-w2GT59KxYnCgEwDyUyW6FVXquOyS5JUStfMebA9raSz-E": [
+        "Jhin",
+        "Vladimir",
+        "Vex",
+        "Jax",
+        "Shen"
+    ],
+    "C9O_FKbw2p_IS9aLSv_9NiqRHQHhzepBYCxcIWVR2jY2Ctjg": [
+        "Katarina",
+        "Qiyana",
+        "Jayce",
+        "Zed",
+        "Riven"
+    ],
+    "d3_dLYCZsjdxjir_AhrwK_xkRuE7zLtciFjXAQYIkMbyBrEC": [
+        "Graves",
+        "Kaisa",
+        "Gnar",
+        "Fiora",
+        "Karthus"
+    ],
+    "3kRqiGGPqeeZ_9g1gcqYh7Hghr0r2I9EQS8ro4Yd7AyU6P4X": [
+        "Syndra",
+        "Galio",
+        "Sivir",
+        "Volibear",
+        "Poppy"
+    ],
+    "jyd5Lgkuz7QiAfxMLwdpJtukP1inynBD-xrUNB0s5zCfLOFJ": [
+        "Nidalee",
+        "Morgana"
+    ],
+    "dBe9QBHH6Eg07nIA_bMZStLrbnGAsCYOtZYbX4akGGwTDJ42": [
+        "Graves",
+        "Kindred",
+        "Evelynn",
+        "LeeSin",
+        "Jax"
+    ],
+    "zJU-2uIcvQmEGga8OYpeG1TSFHu2AzZQcBYbZWB1UvOcp6BC": [
+        "Tryndamere",
+        "Akali",
+        "Poppy",
+        "Yone",
+        "Gragas"
+    ],
+    "WTS5KJmAbpGVn0FNvM5VwFrGHrR3xk7f_YalxOIsCV5DUwHm": [
+        "Rakan",
+        "Pyke",
+        "Soraka",
+        "Nami",
+        "Jinx"
+    ],
+    "PQG3LsPMBBcYzfCO-ityGYeCf1BD0qm_kB-rzbY0Ilf9p2lO": [
+        "Jinx",
+        "Brand",
+        "Tristana",
+        "Seraphine",
+        "Sivir"
+    ],
+    "w16Vi9LJaRHf9dMKGIA-6Oxqt4DdWCuZGUpVxgNKqpaqfu-Y": [
+        "Cassiopeia",
+        "TwistedFate",
+        "Veigar",
+        "Ryze",
+        "Kayle"
+    ],
+    "FaD8B9c8h4N0x-t9x4d9W7KJ3Ms9HplYW8o8mvTCY900EcT2": [
+        "Caitlyn",
+        "Ziggs",
+        "Zeri",
+        "Tristana",
+        "Soraka"
+    ],
+    "Nom016g1eis0XpSzi9m7ci6doqbcVESdcAaSBp3UGbMh2POn": [
+        "Vayne",
+        "Ashe",
+        "MissFortune",
+        "Graves",
+        "MonkeyKing"
+    ],
+    "wVoDOCNS1fF1BACLtB8qKc5miwZDORWhfRAPY0u2daPELNyf": [
+        "Jax",
+        "Irelia",
+        "Galio",
+        "Pantheon",
+        "TwistedFate"
+    ],
+    "wo7cuRnd7B_VnVh0ihSYlSsPauG0L7eGdr_xHqqDhIR67FS5": [
+        "Viktor",
+        "Viego",
+        "Ezreal",
+        "LeeSin",
+        "TwistedFate"
+    ],
+    "0bPvbTh6v9YFeqJ1s9bq9i83Cy0wmsV-zOpO_la6BhaG34-T": [
+        "Trundle",
+        "Sett",
+        "Malphite",
+        "Fiddlesticks",
+        "Poppy"
+    ],
+    "vITGNP9xzmkCPDiF9hgzEicL7OPqyJvbHLjfy7tvVZ9GSaGe": [
+        "LeeSin",
+        "Ryze",
+        "Aphelios",
+        "Sylas",
+        "Vayne"
+    ],
+    "Mx_VnwrpGYbGkYjeyISm2StGRNigR_ZqbRPvEypy54Zat9YW": [
+        "MissFortune",
+        "Hecarim",
+        "Malzahar",
+        "Ezreal",
+        "Nocturne"
+    ],
+    "z7IRc5OUYuQt2h6OWcsR1sDT04f2TEaioi7qb7JvuV0Q8x77": [
+        "Galio",
+        "Jinx",
+        "Aphelios",
+        "Yasuo",
+        "Caitlyn"
+    ],
+    "p-pn0r25PmmOR5bYUlLvFHtOr-TbID8MROV91lXgLVRaoZ_1": [
+        "Alistar",
+        "Rammus",
+        "Maokai",
+        "Nasus",
+        "Tristana"
+    ],
+    "ZgR3T064NnTsff7w6yvgLgyO13I5eVWwWcZ80u_fqF_2IdVC": [
+        "Jayce",
+        "Kayle",
+        "Aphelios",
+        "Camille",
+        "Sylas"
+    ],
+    "kfLJk1wB0d7-yqLku84ufdNubov7w9dQRf2GKXb6xuy9rbzD": [
+        "Orianna",
+        "Sivir",
+        "Fiora",
+        "Zeri",
+        "Tristana"
+    ],
+    "8heD7A_nMoewWlsrnknvtzB9i6nOIy9ILawYLlCuz1aR5sjZ": [
+        "Gragas",
+        "Ekko",
+        "Udyr",
+        "Lillia",
+        "Hecarim"
+    ],
+    "masttMM3nj4L0_u7gYgCH3mn5DGPGXLb0LkqPfbw-OuAjUPc": [
+        "Sett",
+        "Volibear",
+        "Chogath",
+        "Morgana",
+        "Pantheon"
+    ],
+    "xIqnrhNAAvOzxf52cpzrwO-0mpYWm0F2R3kIVHFdF2cbMh_s": [
+        "Mordekaiser",
+        "Brand",
+        "Xayah",
+        "Yasuo",
+        "Kassadin"
+    ],
+    "baWGr-QgV2O077YcXm_h09ShDFCAtEhaezf0LgOlhE3n4vdV": [
+        "Leona",
+        "Veigar",
+        "Morgana",
+        "Lillia",
+        "Ezreal"
+    ],
+    "PX94NUSY8UFFExtxgaMiiVcmdAwL6jDLY07MGrphyFhX6hRT": [
+        "Taliyah",
+        "Veigar",
+        "Thresh",
+        "Morgana",
+        "Syndra"
+    ],
+    "A-8FgSh3zWD2ZP3yVM2ShJRWAP4sMLPLMLPDmArcVW9-NIbt": [
+        "KSante",
+        "Sivir",
+        "Ryze",
+        "Darius"
+    ],
+    "O-66XAzIfx3YstZt5Yh4AIvSYIerEmFqz19AudJC4i_iip__": [
+        "Renekton",
+        "Khazix",
+        "Fizz",
+        "Sylas",
+        "Lucian"
+    ],
+    "bOxZdF-X11WAir3OPr53ZIv14VsCJJuwI8jB3BLHAXCxP8wr": [
+        "Thresh",
+        "Xerath",
+        "Vladimir",
+        "Ezreal",
+        "Sett"
+    ],
+    "1kn_bIokemEzKg_Z2vO9eM1ybBdzGBtkh5ictdGIb4p17qo8": [
+        "Chogath",
+        "Akali",
+        "TwistedFate",
+        "Teemo",
+        "Galio"
+    ],
+    "qqbrQB3D_PcPQNC7AkJ08nLqjES9Mx_t0U8a0SnFaLZJMGun": [
+        "Malphite",
+        "Pyke",
+        "Sett",
+        "Trundle",
+        "MonkeyKing"
+    ],
+    "XV1QhvoAerNRezOVfFbEQ_679Uc_5yjNX1-1EyoHD-FRmgG9": [
+        "Kled",
+        "Shen",
+        "Sion",
+        "Singed",
+        "Sona"
+    ],
+    "L__2TGtiYEodZR7EIrpyGZ7eCAxjUPEVG_QZEbvj_8MaL-1k": [
+        "Kayn",
+        "Pyke",
+        "Cassiopeia",
+        "Thresh",
+        "Ezreal"
+    ],
+    "xNhLJoHc1SgWO8tB16YYs_FmBMYwzqMsT6xRHifPrsrjbTVq": [
+        "Fiora",
+        "Yasuo",
+        "Hecarim",
+        "Kayn",
+        "Ezreal"
+    ],
+    "vmto-R5gQW9hXJWOgt8iG5UmuRxrXITCQxf0zhgmFELLkRvH": [
+        "Ashe",
+        "Camille",
+        "Yuumi",
+        "Ekko",
+        "Janna"
+    ],
+    "NzeNh0C6QVrthFtIoh7GQLr9Q1KGPTvAXQ7GblvK4CMMrh7R": [
+        "Sona",
+        "Riven",
+        "Evelynn",
+        "Talon",
+        "Ashe"
+    ],
+    "MEOOrhXa4LYOsymFXb5L_4rrQ3kXEITf50nyI9xdjS3oQPwe": [
+        "Fizz",
+        "Ekko",
+        "Yone",
+        "Caitlyn",
+        "Jinx"
+    ],
+    "4OJZJdmvwf5DozGL-Vk8J1HWRpgIuUGc5YGC3PAPe9DhIJqa": [
+        "Irelia",
+        "Rell",
+        "MasterYi",
+        "Galio",
+        "Ashe"
+    ],
+    "e4MCj8F043vHRgua-wuAaIXA7zU3tuJgT0fBRKoa-_ZiOsZr": [
+        "Akali",
+        "Ashe",
+        "TahmKench",
+        "Warwick",
+        "Urgot"
+    ],
+    "qI2aic8x910jmRWtDzGdT9ihXS2vDkKjOMnvo7M0JAU0edad": [
+        "Shaco",
+        "Blitzcrank",
+        "Caitlyn",
+        "Pantheon",
+        "Kayn"
+    ],
+    "icYLw3bQ9XR5OEETd56idlOVGRHt6V-BA9K9zfurCtpwi_Hu": [
+        "Kalista",
+        "Sivir",
+        "Tristana",
+        "Jhin",
+        "Soraka"
+    ],
+    "TEWBEbJ-A_hGQ3zNWoRfBgF9HQNVorUiknLIp4pFstYD7mfb": [
+        "Sylas",
+        "Draven",
+        "Kayn",
+        "Xayah",
+        "Leblanc"
+    ],
+    "0O0goKJ0_GJIMfcQT6BDxtkrWF-GtGqaUKS7HnInnvo03hFt": [
+        "Vayne",
+        "MasterYi",
+        "Xerath",
+        "Yorick",
+        "Shen"
+    ],
+    "Btgq2w7rM5tZupO5S_Uc-pOTr1iN0xQpemUlNFVrB5KRJKqv": [
+        "Leblanc",
+        "Kayle",
+        "Lillia",
+        "Naafiri",
+        "Skarner"
+    ],
+    "8oklK5A_a-H2Fj27Ydow0F2xhycI8ITPdG5LuBt4T_NE5cws": [
+        "Annie",
+        "Ashe",
+        "Elise",
+        "MissFortune",
+        "LeeSin"
+    ],
+    "2bzxSjdUgEsfWrmuHKE9HYsXO4pMVgsd6DRKVignqeYYDYup": [
+        "Illaoi",
+        "Yone",
+        "Heimerdinger",
+        "Thresh",
+        "Nasus"
+    ],
+    "iwpfG-Z_1cDVxFJ4iuVJgLm-hNt6CuPNAejtKPOa4xH5dNlq": [
+        "Caitlyn",
+        "Graves",
+        "Sion",
+        "TwistedFate",
+        "MonkeyKing"
+    ],
+    "xvh_4WVlqenN1v-7neu6jy17JBteFWJ2u2BPNhex03ZT0YWh": [
+        "Darius",
+        "Senna",
+        "Diana",
+        "Galio",
+        "Sylas"
+    ],
+    "cshg66h-h7AMIm0BMcY5VHzXjSbi0HUNqeP-kC3PjHqsbO2T": [
+        "Pyke",
+        "Jax",
+        "Pantheon",
+        "Katarina",
+        "Kassadin"
+    ],
+    "eFdgPCpco-mkIWvtcY3enFvU1-Xbn09VqRtcynufq0JZs2vj": [
+        "Sivir",
+        "Annie",
+        "Kayle",
+        "Talon",
+        "Ashe"
+    ],
+    "b7OdW72ib25LmFLwg6Ju2WuTPFGaJYB2E9JSQTyGMZ4C7eiG": [
+        "Akshan",
+        "Taliyah",
+        "Yone",
+        "Gragas",
+        "Talon"
+    ],
+    "OBzhEyp-_LUQCYZUhk-S1jkdRA5f3l9omUhOmT9Rla2kF3YE": [
+        "Ezreal",
+        "Pantheon",
+        "Riven",
+        "Velkoz",
+        "Fiora"
+    ],
+    "OkAfn21Kueq7I1kT3ds_ovWANq8P9YTOQ68KSJZWkIi8tDmA": [
+        "Garen",
+        "Senna",
+        "JarvanIV",
+        "Illaoi",
+        "Shen"
+    ],
+    "Pw7xvsIHkdFRTsBS4snJoOPoK4EHpwk3yzx9exeWDgK-CyRs": [
+        "Trundle",
+        "Akshan",
+        "Talon",
+        "Blitzcrank",
+        "Nunu"
+    ],
+    "E7WYbwH1rya-DM-CSRntlgQU24LejaUziJcsorjYTw6Gre1O": [
+        "Kalista",
+        "Volibear",
+        "Ashe",
+        "MissFortune",
+        "Sett"
+    ],
+    "dBBsdWrVBjuJbapzM4VK7sMIOFrEixLW_HMedoNEdSuqABN1": [
+        "Irelia",
+        "Pyke",
+        "Diana",
+        "Brand",
+        "Ezreal"
+    ],
+    "zFjfs7R96u8yNg5NMNHGzpd89D4YxFMe-c0wNrVrAWcSL1xj": [
+        "Ahri",
+        "Caitlyn",
+        "Camille",
+        "Akali",
+        "Swain"
+    ],
+    "PvKxbHWc1JT4oSm564xMC_z8ZbL2VhwSmaoKtsGTOAWEwrsA": [
+        "Zoe",
+        "Khazix",
+        "Azir",
+        "Ashe",
+        "Diana"
+    ],
+    "y5cFp7YcHfPH7MeYKep2SHspbsfVkqf2nxJaBNNbkjvO-3l-": [
+        "Fiora",
+        "Sylas",
+        "Lux",
+        "Lillia",
+        "Jayce"
+    ],
+    "IzfkZ9pID65tNiB4DZjhjLB8Jgwdt9kOA5bLaETGxlFCCbiy": [
+        "Viego",
+        "Taliyah",
+        "Fiora",
+        "Pantheon",
+        "LeeSin"
+    ],
+    "i1CpAVixjrAAHPV4R7RkSZLHRd9EtNbYuFw59-aNcMJI4zm3": [
+        "Twitch",
+        "Pyke",
+        "Ashe",
+        "Sivir",
+        "Varus"
+    ],
+    "-DixmK47GM0bZtTbd-oxD9QkD90WzWOb9Bzgw3vNrTzx7AAd": [
+        "Zac",
+        "Talon",
+        "Darius",
+        "Jhin",
+        "Ezreal"
+    ],
+    "X1ko4a-5fLORzcXpDADiPoJQ8ti8z-Nc0p6hdKk1aE7ILSG8": [
+        "Evelynn",
+        "Darius",
+        "Renekton",
+        "Gragas",
+        "Shaco"
+    ],
+    "XQ2TxrAdC3Fjf0ktaoEJ0H-nhjkpXsmUNYmuUjXIAP2wvaok": [
+        "Fizz",
+        "Chogath",
+        "Diana",
+        "Neeko",
+        "Kennen"
+    ],
+    "5BJNdA4G3640HpAWWRsFyRhNVvnNW6bGOO_wdSxDL0ASNSN1": [
+        "Rakan",
+        "Vayne",
+        "Alistar",
+        "Shaco",
+        "Rell"
+    ],
+    "NdBwBfdXOLwX09KYOvf2acqGii096m4mKCozr-1kpMyA8oDn": [
+        "Draven",
+        "Ezreal",
+        "Sett",
+        "XinZhao",
+        "Kindred"
+    ],
+    "dgJGlkm9i2MqsphtI0Wz5X9om2EuKhhRKHU8FMlt3cnKsq1Q": [
+        "Katarina",
+        "RekSai",
+        "Mordekaiser",
+        "Warwick",
+        "Ezreal"
+    ],
+    "PWD1WSDXPyahJ_8wMcuVpfCf6kLjxz7KFBQiES5ThBMaNUd9": [
+        "AurelionSol",
+        "DrMundo",
+        "Warwick",
+        "Darius",
+        "Lucian"
+    ],
+    "sUDaM3coF6oXcLel0ftwtXFtFIjxJWmDuxKs85iWHhHJyLmz": [
+        "Thresh",
+        "Brand",
+        "Yuumi",
+        "Rell",
+        "Lulu"
+    ],
+    "xUy41LrZ7FSS09JiRFt0Ezkd0FxCGCWdRmaOVVqcYxayngnJ": [
+        "AurelionSol",
+        "Hecarim",
+        "Jax",
+        "Volibear",
+        "Ekko"
+    ],
+    "qQ0CUOz9wV5YakvfoEhd6ERfrx741xSOvjMr_TUEpW9IXmJx": [
+        "Camille",
+        "Graves",
+        "Sivir",
+        "Zed",
+        "Warwick"
+    ],
+    "ABoSpu0VTYz7GYWmgjQadwlxmtHdf53sEb6lKJI2_chczb39": [
+        "Ekko",
+        "Lucian",
+        "Mordekaiser",
+        "AurelionSol",
+        "Ashe"
+    ],
+    "bcoQi7_c2aQE6RIIxdH-QSDc9rVyLrhzHLbrWY6q5Jn2teg7": [
+        "Jinx",
+        "Lucian",
+        "Varus",
+        "KogMaw",
+        "Quinn"
+    ],
+    "MHhwwn33AnByHbSnhQxylJJQKPqxTfcs-Jnu1KbeRjJQRzcX": [
+        "Kaisa",
+        "Varus",
+        "Yasuo",
+        "Fiddlesticks",
+        "Twitch"
+    ],
+    "6qFcJNNVIIdok1OPANYJeRNyQi95GH5MVhFgWuXWmVB23bfF": [
+        "Zed",
+        "Ahri",
+        "Thresh",
+        "Karthus",
+        "MasterYi"
+    ],
+    "HWXQJJx9ofvQPLxH4rXoWvHwmsId-43li9cvvl_xsIHKCySF": [
+        "Syndra",
+        "Neeko",
+        "Kayn",
+        "Caitlyn",
+        "Fiddlesticks"
+    ],
+    "4PdAy3wK1a8fdGujxI7-UZSlK_Nv_kTOpJ3Ytw9uRnGt7Bmu": [
+        "Vi",
+        "Velkoz",
+        "Vladimir",
+        "Annie",
+        "Nautilus"
+    ],
+    "wdbxtAF3FfezV3rHownQwReW6qwMzKsT9zq3PMBGdxRtfb3t": [
+        "Neeko",
+        "Lillia",
+        "Jinx",
+        "Ezreal",
+        "Xerath"
+    ],
+    "0qbp_Y28RnXeLm9BHARwl1PiwgOXfApf3LBAxab3D4JBrnf3": [
+        "Sona",
+        "Camille",
+        "Veigar",
+        "Xayah",
+        "Evelynn"
+    ],
+    "2C-rrtvVm_xn9fScOwObo2Veyn2psP7QF4eMSRjgH-epfTdm": [
+        "Ekko",
+        "Ezreal",
+        "Ahri",
+        "Lucian",
+        "Vex"
+    ],
+    "8FjtcfRPR_F_mjF6Obkh21cGjWSZbNuk7eTb8p_kjs7Q8_28": [
+        "Vayne",
+        "Katarina",
+        "Nunu",
+        "Mordekaiser",
+        "Akshan"
+    ],
+    "9en2gLNH7Mt22q52pjJ5c-OOmgpy451zxmaSQUkQKMtVWE1P": [
+        "Sivir",
+        "Kalista",
+        "Fizz",
+        "Ashe",
+        "Xayah"
+    ],
+    "Y_-3JzO3HqE4wwdoMRwB1F8i_496r9-BNS-Ltd2htxEAjMpF": [
+        "Tryndamere",
+        "Mordekaiser",
+        "Sion",
+        "Urgot",
+        "Gragas"
+    ],
+    "gBACaF89d6xLr-IwFVvpbvy4ieinyi9Gi68Hfe-eXCTtzwGH": [
+        "Gnar",
+        "Brand",
+        "Darius",
+        "Warwick",
+        "Zed"
+    ],
+    "cIDm_luZ-oko9KP4mMNJuhLbCDF7BJvUcqCxNS54BLa2zPro": [
+        "Lulu",
+        "Lux",
+        "Galio",
+        "Senna",
+        "Nunu"
+    ],
+    "Tn1wTZMs2qVpFQgkSZRYmZY2dJ7heQwecKtsi47fUTytMpBl": [
+        "DrMundo",
+        "MasterYi",
+        "Lillia",
+        "Taliyah",
+        "Quinn"
+    ],
+    "RhEyBCGkaEE_wl24vgPzVbVqcBouuxgn35N9xsOPrtTXZjFx": [
+        "Sett",
+        "Olaf",
+        "Pantheon",
+        "Katarina",
+        "Tryndamere"
+    ],
+    "W6LbUMq5ALOwD5BeNwPNqGwyB8rJlKVLoOd9cEW-8gAHRBQm": [
+        "Yasuo",
+        "Malphite",
+        "MasterYi",
+        "Warwick",
+        "Caitlyn"
+    ],
+    "rimoTGaFQOYadM4Eog3mcOacoeAbRNT2bk3y53K3baibPEaC": [
+        "Nunu",
+        "Kindred",
+        "RekSai",
+        "Jhin",
+        "Vayne"
+    ],
+    "fIESVsZzJ8PPaeAzmfutf5nj9GFb83Sv3dYN_G2UPbtXF_6s": [
+        "Teemo",
+        "Malphite",
+        "Ashe",
+        "XinZhao",
+        "Alistar"
+    ],
+    "ELvs2GYJyGzHI39Sj87W4ok0Own4Rsbt-zzG-HfJKWBFShHJ": [
+        "Yasuo",
+        "Viego",
+        "Fiora",
+        "Irelia",
+        "Xayah"
+    ],
+    "pmBoFfIucFgs9usaIkQn7eB1PnseWby94MPZnwKV71tdAM0i": [
+        "Volibear",
+        "Katarina",
+        "Elise",
+        "Briar",
+        "Ekko"
+    ],
+    "Mt1w7y57qu7BZp_6jCbXTkdFwC_MVYg4wvRXtSRJXo15VRtZ": [
+        "Shyvana",
+        "Amumu",
+        "Camille",
+        "Pantheon",
+        "Viego"
+    ],
+    "yiYnbzihx1drZpCMbbmWY58W219NiIgT1McCfmKJa19jKcxV": [
+        "Leblanc",
+        "Zed",
+        "Kassadin",
+        "Vladimir",
+        "TwistedFate"
+    ],
+    "_BlHNeuPEoSSrqsGBgiXOEkZ5d6KRR97-f_zYLFfN6RKGIWB": [
+        "Renekton",
+        "TwistedFate",
+        "Morgana",
+        "Gangplank",
+        "MonkeyKing"
+    ],
+    "SG7H14ANNZtEH5jeNYEhKkcrqgNeBWVtQx_pqFVXlIbgPOne": [
+        "Ryze",
+        "Orianna",
+        "Lucian",
+        "Viktor",
+        "Mordekaiser"
+    ],
+    "lDasy98UsklghswnSA6wEo9U9WglgDdk9JfMVAV9S-kwmUqR": [
+        "Renekton",
+        "Pantheon",
+        "Anivia",
+        "Yasuo",
+        "Neeko"
+    ],
+    "OAtmV-NTVwHUGYXQ8etu6PgrOFf_pjqLdizwvtVEWCh8JUeI": [
+        "Trundle",
+        "XinZhao",
+        "RekSai",
+        "Nocturne",
+        "Rengar"
+    ],
+    "LmQTtHWtNrBmpJPeUQColJThcinLT0l28qF6EHuxBeKqRBRr": [
+        "Talon",
+        "Sylas",
+        "Kindred",
+        "Rumble",
+        "Ivern"
+    ],
+    "RlCPG5bTlnbeAJclIZAIvbyHDvSDRjRop-oOIxaDF6FvDbBO": [
+        "Teemo",
+        "Vayne",
+        "Malphite",
+        "Draven",
+        "Yone"
+    ],
+    "c-NjrgLORXZlU6mqHloQuy1_eSi2urofGALynEJJ3Dqr3jZI": [
+        "Yone",
+        "Jinx",
+        "Lux",
+        "Sion",
+        "Aatrox"
+    ],
+    "3Y1nynghBV74rYzB6nw_ew8cf1mRGuIEITYXtDaIondQD7sS": [
+        "Kassadin",
+        "Urgot",
+        "Rumble",
+        "Irelia",
+        "Olaf"
+    ],
+    "2saFN6fIVojbjBGerDxTKj7gbKr-RSylh7ULZEABFxhyeaHi": [
+        "Irelia",
+        "Xayah",
+        "Amumu",
+        "Jhin",
+        "Malphite"
+    ],
+    "1nr3cxUmafogUXgvyWjBO72iIaVPRXvi_l_ELOWjIjjmV7lh": [
+        "Aphelios",
+        "Kaisa",
+        "Sylas",
+        "Swain",
+        "Senna"
+    ],
+    "bQChIEO3voKOrqNulggjBsqNrWQmHXbt8uY5im9MdYDbrhgX": [
+        "Zilean",
+        "Gangplank",
+        "Brand",
+        "Ahri",
+        "Orianna"
+    ],
+    "ZBgcsJ3XQFwSC9bC1dl9uA-6a7G24rTjulrYsZktN9Gw8yek": [
+        "Olaf",
+        "Katarina",
+        "Garen",
+        "Camille",
+        "Yone"
+    ],
+    "r54Ek-IY2A3Ftcm3dxyNDz7a-MfE3cqRflCcDMyAwfjpX-E9": [
+        "MonkeyKing",
+        "Ahri",
+        "Ezreal",
+        "Shaco",
+        "Vi"
+    ],
+    "5IpmeGj7HGQ9BQRzWhpnLO5WA3jqVdZf-EHoaPh9fk5ZkoB_": [
+        "Velkoz",
+        "Twitch",
+        "Blitzcrank",
+        "Ezreal",
+        "Teemo"
+    ],
+    "zbsjvJTpGR6VAFYdnAbSLm0705IYc2NT6fBhN8KaXm394uFa": [
+        "Karthus",
+        "Orianna",
+        "Tryndamere",
+        "Sylas",
+        "Yasuo"
+    ],
+    "V06Yqb2Z4dZAZ3hKutMykO_1GIInoD5WAI1uXMInOqddMjl6": [
+        "Jhin",
+        "Ekko",
+        "Gragas",
+        "MissFortune",
+        "Lucian"
+    ],
+    "nFOu3zdyuvDEcEMKYx6wgZEnkybi5X4iFA1LDQqqKTDGePwJ": [
+        "Jax",
+        "Camille",
+        "Caitlyn",
+        "Pantheon",
+        "Viego"
+    ],
+    "-5vrwI1Chz6dFJPM6k3HpQjuvMueYBug8ZsGS23gRg5bT8uz": [
+        "Kaisa",
+        "Evelynn",
+        "Fizz",
+        "Jinx",
+        "Teemo"
+    ],
+    "Hsn4UII_SHGdYhbxQetnVBx-N6OnwoL2sz0E-J8p5sBBK67d": [],
+    "1xOfEBoGuIKqbcxGMJ4Ybxo33pGYG2EgdBQchVpbGcH5nZy8": [
+        "Camille",
+        "Ziggs",
+        "Tristana",
+        "Jhin",
+        "Irelia"
+    ],
+    "iHMfw3QkBYu09u5Z0-XqnACbEzqXEj5VoJq3GaYDQmHP2fID": [
+        "Ezreal",
+        "Zed",
+        "Vayne",
+        "Samira",
+        "Thresh"
+    ],
+    "8lbT3HrgumHJfm-XLw2JFQ8RnosaspJWnWNbTp8VhNme56e-": [
+        "Irelia",
+        "Talon",
+        "Samira",
+        "Senna",
+        "Kayle"
+    ],
+    "dkMTqn1HsyBz5imFuVVPXsM10ztfTr66Y1BeN8Rtk7fRQGqo": [
+        "Zoe",
+        "Ahri",
+        "Orianna",
+        "Ashe",
+        "MissFortune"
+    ],
+    "IjgAd0qHFrL9-5T5cRgTCRsI5gGkA_LHxShQ64r-h3rQcOg9": [
+        "Lux",
+        "Irelia",
+        "Yone",
+        "Twitch",
+        "Talon"
+    ],
+    "EpexERYzCs3RvIWjHq_1DNjEA4-woBMu9GvZECKe_pTjDmW5": [
+        "Ezreal",
+        "Fizz",
+        "Jax",
+        "Annie",
+        "Jhin"
+    ],
+    "GXZThtLmSVbBDMzjbUFPCHOcJMXx5cyCULYY5Ui6IexR7Jii": [
+        "Senna",
+        "Viego",
+        "Akali",
+        "Akshan",
+        "Kayn"
+    ],
+    "RMnU9NEsXk3RUlnhKt7j05LQbCw0EwgVGp0VKm1lwvFA6Qwp": [
+        "Lucian",
+        "Renekton",
+        "Kayle",
+        "Irelia",
+        "Sivir"
+    ],
+    "AdxQhzGCG-KDQ2ZDD60K0vvFHlKxxyT7JXVtJVg-DiagOGFy": [
+        "MasterYi",
+        "Gwen",
+        "Udyr",
+        "Evelynn",
+        "Rumble"
+    ],
+    "v_mv7GH5SS88VQq7FLZB7WCFDTyDBsmuB_kUoEZYneVToxOy": [
+        "Sejuani",
+        "Samira",
+        "Tristana",
+        "JarvanIV",
+        "Nunu"
+    ],
+    "7qrSAuoMzDKVwFh0W3pJRwPIRYj0U_1wl2j31TiXP-Kj7ooE": [
+        "Brand",
+        "Pantheon",
+        "Ashe",
+        "Varus",
+        "Caitlyn"
+    ],
+    "Imu0pcJ0HhoGEWO5nLS-MRF5Xz87_3OMcaEsfDHPMZmSVjPs": [
+        "Sylas",
+        "Garen",
+        "MasterYi",
+        "DrMundo",
+        "Warwick"
+    ],
+    "cygbaoO65gZfcMgh3P83SMlzjFSL6r_T_DZNEPQ7qJNJtaSg": [],
+    "AZMK05n2_c9LVzUMyWsKkHTUpXpaRZZ1mQilp35gl8xs5tQa": [
+        "Draven",
+        "Ziggs",
+        "Ezreal",
+        "Fizz",
+        "Shaco"
+    ],
+    "NaguBvxbfWxjTFUaN0r-I0f7RDCpLnaJ2VuHur6k2CuzSLo4": [
+        "Swain",
+        "Quinn",
+        "Darius",
+        "Renekton",
+        "MonkeyKing"
+    ],
+    "tJ4ZMezFQ8hVZN789Qa7zMmofF-gUUPEM9hof6vKTLig99RS": [
+        "Trundle",
+        "Nautilus",
+        "Xerath",
+        "Nami",
+        "Poppy"
+    ],
+    "-50oBKdD-JxZurgS_IazUIVic0jHQvUymSGio5ZiJDXNS4wR": [
+        "Aatrox",
+        "MonkeyKing",
+        "Lucian",
+        "MasterYi",
+        "Garen"
+    ],
+    "tVevWrq39Mh5uvJibjr-fu-t8sjfs_n1KL3WclIq8U3em-vk": [
+        "Lulu",
+        "Jax",
+        "Leblanc",
+        "Leona",
+        "Ezreal"
+    ],
+    "Zc9nynARL-eX2F61TEIOzN84mjAAP0unDzN73PVqN2-32UAM": [
+        "Draven",
+        "Irelia",
+        "Fiora",
+        "Nilah",
+        "Katarina"
+    ],
+    "WmWXCTDONDF6iGFBWLsp2xZYc0CAvM1bNtcyv9p35EIWjr0_": [
+        "Milio",
+        "Morgana",
+        "Bard",
+        "Amumu",
+        "Renata"
+    ],
+    "srMA4z9zQwX9E27fBfqtUmfK5KZ1D0OpRAKPUq_qslKSnd6a": [
+        "Vayne",
+        "Kalista",
+        "Samira",
+        "Fiora",
+        "Varus"
+    ],
+    "23YEQwmTxW2HEA51Gr6n_9a3qSBp1nMKuNNd4jAMPMdWTg0s": [
+        "Zyra",
+        "Leblanc",
+        "Quinn",
+        "Ezreal",
+        "Sylas"
+    ],
+    "SyBC2mCs9gJQ4Of-qGH5CDdfTcAg4MN67N9yZAqp0R_6G8bw": [
+        "Caitlyn",
+        "Zed",
+        "Yone",
+        "Sylas",
+        "Khazix"
+    ],
+    "_wMzzmwFc1ZkMbyKPYBP_k7-tQ0ybe6sWY6baqxmLqBo3qa4": [
+        "Twitch",
+        "Amumu",
+        "Teemo",
+        "Jinx",
+        "Xayah"
+    ],
+    "KvZMUvnLN7A3hsflhcFn-0ymy5br5mhALYT0gRvc_ReByKCf": [
+        "Ezreal",
+        "Kayle",
+        "Pantheon",
+        "Warwick",
+        "Morgana"
+    ],
+    "gBW6JR1JOZhVAb7V6SCIzv9X0AQHC0SO8wxyCvciKgW0kM0C": [
+        "Aphelios",
+        "Zed",
+        "Irelia",
+        "Nami",
+        "Morgana"
+    ],
+    "X2oTsMwEyOCpGZupIPNrqdk83FuK9Mv49i-wO8Uqs7mii9Dg": [
+        "Twitch",
+        "Olaf",
+        "Pantheon",
+        "Diana",
+        "Udyr"
+    ],
+    "9l6MJuT4a7dPmXvhDlY9RuUToYgzu1SnC3KmM3t2lfq8xCMH": [
+        "Fiora",
+        "Singed",
+        "Illaoi",
+        "Darius",
+        "Tristana"
+    ],
+    "lxr2PKNdCZq1Fep6bw3DVa2Wo8oIDwn-QEsbIi424tE-DixX": [
+        "Zyra",
+        "Lux",
+        "Blitzcrank",
+        "JarvanIV",
+        "Volibear"
+    ],
+    "DYH0p1o-SOokbALPs1m_TJ8FjqOoNFuwX6hBKvHhVSdyxdXO": [
+        "Zeri",
+        "Xerath",
+        "Kalista",
+        "Syndra",
+        "XinZhao"
+    ],
+    "onHa91v-jg-AXMsOY-bqrTsBvW4i10g7tCoFtaCyy0zG-g3G": [
+        "Nunu",
+        "Lillia",
+        "Pantheon",
+        "Nautilus",
+        "Yone"
+    ],
+    "3te0NPRo_AwWsbIq3kscYisNbbyRhP0CEWWzk2Y7UIPTZSl2": [
+        "Graves",
+        "Jhin",
+        "Twitch",
+        "Jax",
+        "Camille"
+    ],
+    "Lbq5GwitaxF-8YuMpdPta-kpotLordRvYbhSUjSBCtqgrwdv": [
+        "Nocturne",
+        "Senna",
+        "Viego",
+        "Sett",
+        "Fiddlesticks"
+    ],
+    "meHj-pRcJd81ZfFn1n4ZQToNJNDPj6XdBN5xjB09XBYhxokv": [
+        "MissFortune",
+        "Caitlyn",
+        "Jinx",
+        "Heimerdinger",
+        "Zyra"
+    ],
+    "-GoSt_CfI5v6j-SanULZ6S1xQ0aEVVh8XkERY6GhvRXI4CdQ": [
+        "Camille",
+        "Yasuo",
+        "Tryndamere",
+        "Graves",
+        "Ezreal"
+    ],
+    "Nxtm4q5kmQ63HOixYjPISu5do12UfBlsRhlRydZ9l1IdrB2C": [
+        "Thresh",
+        "Nidalee",
+        "Lulu",
+        "Quinn",
+        "Ryze"
+    ],
+    "Ca48Qxvd7gFEydlPbOE4U05wrBWFSrY4DIt3Kt7exuh3ADJ9": [
+        "Diana",
+        "Jhin",
+        "Senna",
+        "Fiora",
+        "Khazix"
+    ],
+    "NfRnQ_33mTP1buKkGpyor4DHC7XZSPd11nzZgrgCcokK67cZ": [
+        "Nasus",
+        "Talon",
+        "Draven",
+        "Nunu",
+        "Viego"
+    ],
+    "U6PYwxnBFdGJl358URFQ38cVaSXAe40dznfRJLdvnWkoGzHA": [
+        "Graves",
+        "Maokai",
+        "Alistar",
+        "Soraka",
+        "Kayle"
+    ],
+    "d6Z6E3cILc5s1-GstnfvGY3LT9tbf-qtkQWnJ9oNkFjUzK3y": [
+        "Vladimir",
+        "Renekton",
+        "Camille",
+        "Udyr",
+        "Aphelios"
+    ],
+    "O9RIbuxYz6fXnSwjm29qTmA6MmFq4Z8I-zHsYyeAEam1vORR": [
+        "Karthus",
+        "Viktor",
+        "Sivir"
+    ],
+    "9NrkiTYKnxtzgXaPkeW7XIgxLX4-q8qcsvVx9CHUDTp7Z1BH": [
+        "Sylas",
+        "Annie",
+        "Rammus",
+        "Nautilus",
+        "Renekton"
+    ],
+    "0oeuf1l2mXHa2go1w3cw0VHwztsEsUoB8d11-ARVSVRkPaP0": [
+        "Taliyah",
+        "Fiddlesticks",
+        "Talon",
+        "Aatrox",
+        "Kindred"
+    ],
+    "XBWNU5Q6y5INhzAVjeVnP9sADwHx9686dw2ZOPxz_YCbN-qr": [
+        "Chogath",
+        "Kayn",
+        "Rumble",
+        "Udyr",
+        "Jax"
+    ],
+    "yLLYInBoUIHB8DB-7nD61eba7-yObJ0IXLzQh1XQbQcF1ypk": [
+        "Ashe",
+        "Seraphine",
+        "Tristana",
+        "Jinx",
+        "Ivern"
+    ],
+    "nnAPWQOBvbFPx-Tjyw8Jd0vii9WlIM-DJdYgmcSxBzMYvf-e": [
+        "Renata",
+        "Camille",
+        "Diana",
+        "Milio",
+        "Nocturne"
+    ],
+    "2hQEY8LJNbWKFhWWxIJdTQNM9T3JWccX2wjuCO7FO65PoZRj": [
+        "Ashe",
+        "Cassiopeia",
+        "LeeSin",
+        "Varus",
+        "Leblanc"
+    ],
+    "lXtn8IdNZ9_Ysh8tMCekAGwxWf3YpEB_SEgBxkTm6NNOR4FH": [
+        "Janna",
+        "Karthus",
+        "Ezreal",
+        "Nunu",
+        "Nidalee"
+    ],
+    "hN3bqb2Asq423h2A6xPkQKGOfZpduFrf5hpwOakH9sbP-OcK": [
+        "DrMundo",
+        "Irelia",
+        "Yone",
+        "Yuumi",
+        "Nasus"
+    ],
+    "FNTk9I1remRZoNpzUdYTslKCwJNG9-yYqLulSWUigehn-Tyo": [
+        "Zed",
+        "Jinx",
+        "Varus",
+        "Zeri",
+        "Akali"
+    ],
+    "bRooiHAwIFqSqTlz_BMIBY_Ka5jj7fA5nFOV_WyOURkY0Twz": [
+        "Irelia",
+        "Lux",
+        "Leblanc",
+        "Janna",
+        "Kaisa"
+    ],
+    "blfG28xG719Vr0da5PR-tHOzGr0NhNcQ3RESMuNTUZWNFqLe": [
+        "Sivir",
+        "Katarina",
+        "Darius",
+        "Yorick",
+        "Vayne"
+    ],
+    "QL3hDhFA0I0DreUu5-qECkNOtjCsGSjOD_z-7hof3oQwRne0": [
+        "Graves",
+        "KSante",
+        "Kassadin",
+        "Orianna",
+        "Lucian"
+    ],
+    "bz3lFv5qZYv06Jnk-1_NUqZUOPs7v2DbihIfhx3YDLohMj_Q": [
+        "Mordekaiser",
+        "Taric",
+        "Akali",
+        "Graves",
+        "Malphite"
+    ],
+    "njrc-I6219iICT8cenIq9EFf8ZEP-SKrwf0kGGkZh65Uw5jm": [
+        "Caitlyn",
+        "MasterYi",
+        "Senna",
+        "Yasuo",
+        "Jinx"
+    ],
+    "vs2eGOtsqP1eshc2vru-RMCIRnPk-oDKLGpaO6Vo_O28aZFQ": [
+        "Kayn",
+        "Pyke",
+        "Katarina",
+        "Vi",
+        "Volibear"
+    ],
+    "FB8WbUvzYM0T1drhEBAI1kdsB_2iTzWulXRA8Sj31isE2BTx": [
+        "Sett",
+        "Viego",
+        "Zed",
+        "Renekton",
+        "Akshan"
+    ],
+    "rzpdP72StB9hH354tV2M9_tIGGfxbM1sSMT2BkeyZjjZtx7P": [
+        "Sylas",
+        "Graves",
+        "Kayle",
+        "MonkeyKing",
+        "Ashe"
+    ],
+    "nbxAdcBd5e5lNn5vXmpIkflapqNUXacDWYf7PTpU5FA88lbO": [
+        "Lucian",
+        "Tristana",
+        "Neeko",
+        "MasterYi",
+        "Graves"
+    ],
+    "VDvCpZr8hFRiKkvx441zuPu9R9_o5xhgJ5R5k5FwdXDLtYnG": [
+        "Twitch",
+        "Jax",
+        "Akshan",
+        "Ashe",
+        "Sona"
+    ],
+    "FpVZvZHtgkp72x_S4pi5wi9LuXU3mLHAna02uqyutbXcZ45X": [
+        "Graves",
+        "Riven",
+        "MissFortune",
+        "Akali",
+        "JarvanIV"
+    ],
+    "PY8Tr7HG441N3HmOhYo63dMVgqosSGbaSgLaNm5W5SFO00tZ": [
+        "Malphite",
+        "Lulu",
+        "LeeSin",
+        "Senna",
+        "Yasuo"
+    ],
+    "KZwvn66XVL-tBWCI3Vl9yyyOZmA7dgKjNKo3ErMaoCp-M4TR": [
+        "Caitlyn",
+        "Shyvana",
+        "Teemo",
+        "Lulu",
+        "Varus"
+    ],
+    "Tlf9ak9XCbqO0xjj-H2cmvJ-1QCSBgDc0wHdobUrj70dQaVE": [
+        "Kassadin",
+        "Jinx",
+        "Viktor",
+        "Annie",
+        "Galio"
+    ],
+    "k0L86zxjbt5uhPnOFwbB6B2b8fsawHkm3bmXcmHOue70Per6": [
+        "Nautilus",
+        "Volibear",
+        "Ashe",
+        "Teemo",
+        "Camille"
+    ],
+    "A7vd_E8rRbCh0gmg1FNgy-FBwCdiTcKEGihmTqOG9vSHdZZm": [
+        "Irelia",
+        "Yone",
+        "Viego",
+        "Aatrox",
+        "Yasuo"
+    ],
+    "cS5EQeBi36yexuTAV4UZYe0lp-elpXOOGJEE_2iwtsHWLw1B": [
+        "Lulu",
+        "Heimerdinger",
+        "Soraka",
+        "Varus",
+        "Lux"
+    ],
+    "VEFe5FvQ6pxibfmvJESUl9dCAjPV5j1sWdpx18Aoe0Xk0kIR": [
+        "Jinx",
+        "Viktor",
+        "Jax",
+        "Poppy",
+        "XinZhao"
+    ],
+    "CZTJnGQvt0suyegC5wyjpHo14WG6OoOXjUtBdB6IstnUqPFv": [
+        "Khazix",
+        "Jinx",
+        "Caitlyn",
+        "Aatrox",
+        "Vayne"
+    ],
+    "NKD7_QgRPsupZUKuW9e1pyv3HL7pE4AQb9CfBKBpEdLtbWyz": [
+        "Gragas",
+        "Ahri",
+        "Ornn",
+        "Fiora",
+        "Yone"
+    ],
+    "zTrYblvd7oSxEylaoDXEPfEqd-1rR9rKCh-bozN1lVOPlvJx": [
+        "Jax",
+        "Ezreal",
+        "Lucian",
+        "Annie",
+        "Darius"
+    ],
+    "nT0NFN7XlZYx6XIkConF_t_UFJYI6aW4K2V_lHILn-TS77i8": [
+        "Amumu",
+        "Lucian",
+        "Seraphine",
+        "Lux",
+        "Ekko"
+    ],
+    "duqGE0fLFGThqHNa5JFiMKdXH6EuyBXSCspgJB0car6ftaoR": [
+        "Garen",
+        "Volibear",
+        "Tristana",
+        "Camille",
+        "Kassadin"
+    ],
+    "5-iMsR5-qmFlauNGbUd6PZyoY90P16GEbpDCnSgOdf-lZskM": [
+        "Sivir",
+        "Caitlyn",
+        "Draven",
+        "Varus",
+        "Samira"
+    ],
+    "UxyAq4EcqwBDH6dMNBn9S6nosZgVk5X737dwhJz2ycgvaLMh": [
+        "Twitch",
+        "Lux",
+        "Jax",
+        "Jhin",
+        "Trundle"
+    ],
+    "jD1dDIZr7-yKrTsBXsgT80E9hUaNmn4Yd0SHKAXtfmu0leMw": [
+        "Ashe",
+        "Hecarim",
+        "Sona",
+        "Camille",
+        "TahmKench"
+    ],
+    "DIZtQLN1Ctotb7YCbn5MtUeDaMOaoyfn8-QiU0IponBEBX2X": [
+        "Zed",
+        "Fiora",
+        "Garen",
+        "DrMundo",
+        "Yone"
+    ],
+    "mj8rL8yEh2cI0cjmCJkNqOW0aWut326hgY7H0uiWTdCLWWgv": [
+        "Thresh",
+        "Samira",
+        "Rumble",
+        "Pyke",
+        "Aphelios"
+    ],
+    "qImdoE4SR5y7ErL9PPLcXZV1QvKrwuo-zM2VqxlKEVuOGQRI": [
+        "Diana",
+        "Garen",
+        "Pantheon",
+        "Olaf",
+        "Fiora"
+    ],
+    "9JgqxDtyxd38AbmjIe39gQlYp34xgIxRG4BYV67kevnmDPK9": [
+        "Bard",
+        "Braum",
+        "Zyra",
+        "Amumu",
+        "Nautilus"
+    ],
+    "_3gBiylNIElRIgdEGIv_WDXVf_F1OWJJ9o7iooplw8SpSrXo": [
+        "Yone",
+        "Jinx",
+        "Kayn",
+        "Kayle",
+        "Lucian"
+    ],
+    "u5458xWAji3N7dM8SrjWUyP-AhS1sU5DeRCLMxs28V6-bzC2": [
+        "Gangplank",
+        "Varus",
+        "Pantheon",
+        "Vladimir",
+        "Malzahar"
+    ],
+    "IlPgTeJNpHvFZMkqCVwQ_yVAlT6gk88SYSNHvLW1zjJi_TIv": [
+        "Rengar",
+        "Pantheon",
+        "Quinn",
+        "Ziggs",
+        "Volibear"
+    ],
+    "bNL_1iNKv0DuaO-eBHDYkn7RMg0xSj_Hs7NVFSq2-k62NOY5": [
+        "Vayne",
+        "Xerath",
+        "Lux",
+        "Ashe"
+    ],
+    "_75Hek2vVnUdNwUjmV_lUTffekJxgNLkQwW_TrQJ30_lTxKT": [
+        "Sett",
+        "Samira",
+        "Nilah",
+        "Kaisa",
+        "Volibear"
+    ],
+    "smaPrDYHbOOs1vGiNXM1z5zqaOLWsV4jMsOYJGZCnGFCZjba": [],
+    "GR95Sl2jLTTafbBWx2-0fJSlyIck_EzKCytIufa0Lb3yRu-A": [
+        "Nunu",
+        "Lillia",
+        "Ashe",
+        "Sona",
+        "Ziggs"
+    ],
+    "eY5g4tJLSoeDqQg6pUSS04qREzK5-_UIalzzrfI5Fh0kXRHw": [
+        "Vayne",
+        "Yasuo",
+        "Veigar",
+        "Gwen",
+        "Pyke"
+    ],
+    "qZ5MZM3wirRglMODyKaIo6h2GE-o9gKCmFUdmckWBztoi2BJ": [
+        "Pyke",
+        "Jhin",
+        "Kaisa",
+        "Yasuo",
+        "Lucian"
+    ],
+    "Cn4rwknxFl-XyAJ0jT4OQNEpwTJvAQh-ZyGYp9kFMzKQX7Hd": [
+        "Kaisa",
+        "Khazix",
+        "Caitlyn",
+        "Ezreal",
+        "Tristana"
+    ],
+    "QQfpJPDFJWXbmvpD2fza60RbHejS0-KzFJpOxSRxPJSXU8du": [
+        "TwistedFate",
+        "Lucian",
+        "Kaisa",
+        "Renekton",
+        "Leblanc"
+    ],
+    "tDzrkV8ycJElcggOHFQj5xsmCG5izwGxKzDMY0_ycykP": [
+        "Malphite",
+        "JarvanIV",
+        "Swain",
+        "Shyvana",
+        "Shaco"
+    ],
+    "KwWukDr7iYxg1RvVyQMrEgrpg9_YZ2W8cKf6xjbQ6zgdpMo8": [
+        "Sona",
+        "Milio",
+        "Lillia",
+        "Senna",
+        "Qiyana"
+    ],
+    "Ejergihh9s5yDAULaSeOcmprPowZCuikCb0UAVMcn75XxKfA": [
+        "Yorick",
+        "Urgot",
+        "Veigar",
+        "Jhin",
+        "Akali"
+    ],
+    "bHueRzRPEMJC4aDzVahj67qguvyH0LlvdTwimvQOHw7P4qlI": [
+        "Brand",
+        "Annie",
+        "Senna",
+        "Lissandra",
+        "Darius"
+    ],
+    "BuprDtvjEsnqJl0GRyzHo66c7-ujmnFMekuG6_NWR5vy0TNo": [
+        "Karthus",
+        "Diana",
+        "Trundle",
+        "MasterYi",
+        "Samira"
+    ],
+    "5ZmDyBaK74CS3yFD-ox6_544E5aG1U7xkZWl1Y18oGBuHXgG": [
+        "Zoe",
+        "Aatrox",
+        "Ahri",
+        "Velkoz",
+        "Kayle"
+    ],
+    "VbvpBzTEJ0w5g_9T87eELmfkKAGczUsDvHwc240l4VKZnjZc": [
+        "Diana",
+        "Illaoi",
+        "Velkoz",
+        "Tristana",
+        "Maokai"
+    ],
+    "6dYFgDo43qIG7GTupk83scnStR-f97CLryCJRn-YsymHG9VZ": [
+        "Nasus",
+        "Olaf",
+        "Pantheon",
+        "LeeSin",
+        "Samira"
+    ],
+    "74qPG4wV2ipTzh4H9MeIAD9R4Au217RqWYABKiQFIIiuDJ9P": [
+        "Vi",
+        "XinZhao",
+        "Hecarim",
+        "Sivir",
+        "Morgana"
+    ],
+    "2ZjyECYLXK9_-GZiQRMWuW10So943lUiLXuNmPpSFG9-RVT1": [
+        "MissFortune",
+        "Senna",
+        "Varus",
+        "Samira",
+        "Talon"
+    ],
+    "6L31wuqqVYCM30tSMTnQAkv1qIwNuNfeOmMNyimnAsrJZrV6": [
+        "Akshan",
+        "Gangplank",
+        "Chogath",
+        "Talon",
+        "Rengar"
+    ],
+    "A9IZLs30eV1EhDFSIrwV26lrOqNTpqmruYp_Tt8d-ZrDx9Y4": [
+        "Viego",
+        "Ezreal",
+        "Belveth",
+        "Ekko",
+        "Caitlyn"
+    ],
+    "uAaoX7tHVwkQUpXjDMs5-kv1ahiByMgwr6isIfMg_-B_HrgQ": [
+        "Hecarim",
+        "Riven",
+        "Ekko",
+        "Varus",
+        "Kaisa"
+    ],
+    "qAqjiVdAFxxiU8hB1H93Ni5pck3EyZ8o-B2_nblseb85sH37": [
+        "Irelia",
+        "Olaf",
+        "Mordekaiser",
+        "Jhin",
+        "Zac"
+    ],
+    "R5-iKTpk1y_61CPlGs7TBf3Ky_TBxJiZPaq4R28YWvY-H-mY": [
+        "Garen",
+        "Jax",
+        "Shyvana",
+        "Olaf",
+        "Trundle"
+    ],
+    "bDkfkZkk2x_DZw1LohkTwq9obWs4VhzFoMts6R6A_U-fEash": [
+        "Viktor",
+        "TwistedFate",
+        "Blitzcrank",
+        "Annie",
+        "Malzahar"
+    ],
+    "74fVWgpjU-xDJ7pbMMaaQZ7SU_dhm3FuUkruNTcQ_X48tNSX": [
+        "Irelia",
+        "Lux",
+        "Leona",
+        "Renata",
+        "Soraka"
+    ],
+    "5zc6-jRP78lewuapRgVJoxwYWCTxo0MA6TYBHU2SI6obqlNF": [
+        "Tristana",
+        "Brand",
+        "Lux",
+        "Alistar",
+        "Lucian"
+    ],
+    "pyNHaF7WzVFrCHIPCDrVJ8bxa1p4YZYbUjSdSt1srtC3U68m": [
+        "Vayne",
+        "Lillia",
+        "Sion",
+        "Garen",
+        "Lucian"
+    ],
+    "RK-AqmQSJX-r9BVlT61lsuGzt-1jXEVNImCk77j90OU4QyRy": [
+        "Diana",
+        "Mordekaiser",
+        "Riven",
+        "Aatrox",
+        "Talon"
+    ],
+    "mqCrrOZLqTfYX1ng2hLs4FCNKbvvmutY9B2fgjoUvQ_j_5pw": [
+        "Chogath",
+        "Rakan",
+        "Bard",
+        "Sion",
+        "Teemo"
+    ],
+    "X-I61tBgyxfR_3BkvmzWiMF7Y0Gx2zLY7SlHZ0cyZ6tUwrpB": [
+        "Lissandra",
+        "Samira",
+        "Janna",
+        "Caitlyn",
+        "Zeri"
+    ],
+    "Ikep5j3Ri0oagO8tGlMChSlqTMHOuxkGvHdtH8k-IqwNE0f5": [
+        "Kaisa",
+        "Sivir",
+        "Amumu",
+        "Veigar",
+        "Sona"
+    ],
+    "i7rViw9gIGM1pZUla0MCkGXMNAjr-r74PnI46HLZEjt_AB3s": [],
+    "GQ0XojOuVGwnJ-PE8G7vyjWq3vF3uz3kE_xhgbghP-EiRzvg": [
+        "Riven",
+        "Renekton",
+        "Vi",
+        "Mordekaiser",
+        "Yone"
+    ],
+    "xHDYHZTbMD-rmt482IxCdD8BXMLzpjBKOwfervuZEipRzVZ9": [],
+    "HL6JJ-IL9mRt6FPzlowuCNO4C4JwQSpCMvIFmSUXfs20mOIr": [
+        "Leblanc",
+        "LeeSin",
+        "Yasuo",
+        "Kennen",
+        "Vayne"
+    ],
+    "NPxYt03GK3-TuawS66qu0M3B28XZgSfUEnw-HldniNPuPQ2p": [
+        "Soraka",
+        "Sivir",
+        "Xayah",
+        "Lux",
+        "Katarina"
+    ],
+    "iSZQPh8GuujqfCs7sfMJEuKyxirOgLvRjlm1wDb3p2BNYIzk": [
+        "Viktor",
+        "Yasuo",
+        "Kaisa",
+        "Vayne",
+        "Xayah"
+    ],
+    "7B3DWHzpe9yukrUh3jisdPosNIDnqp2ZpVm2KC4eBNWYFsfJ": [
+        "Qiyana",
+        "Viktor",
+        "Twitch",
+        "Vayne",
+        "Orianna"
+    ],
+    "Tt_3oDl7heZHl5ziu0tlbMrKMPqzXGbjK7w47v-jIHRqL2Y8": [
+        "Veigar",
+        "Thresh",
+        "Pyke",
+        "Nasus",
+        "Singed"
+    ],
+    "cXYhpl27QVJK83y-cummZwJdCGQ2-EXOeOtWw1dtMhrn4YqC": [
+        "Viego",
+        "Pantheon",
+        "Galio",
+        "Volibear",
+        "Lissandra"
+    ],
+    "l93lGEeLMs07egIn_WwMEx5O0r-Of-hQO7btWHd6-0EtDnBz": [
+        "Kaisa",
+        "Orianna",
+        "Xayah",
+        "Azir",
+        "Sylas"
+    ],
+    "EiRZCLxvCXcR_g0TK1e2ILvDzq93XPZpERnCwCW40AgqoEWX": [
+        "Fiora",
+        "Ornn",
+        "Olaf",
+        "Ezreal",
+        "Irelia"
+    ],
+    "gH211m1uKTy8RuGE5jPIneVor-SFkFIATMRty8XVXSv8U_Fg": [
+        "Jinx",
+        "Sona",
+        "Warwick",
+        "Janna",
+        "Seraphine"
+    ],
+    "y3Vtg1dndFJsYNhlqMdKZBZk0-Gj7CXcEx8mvX5IbHJWAPwo": [
+        "Viego",
+        "Zed",
+        "KSante",
+        "Caitlyn",
+        "Talon"
+    ],
+    "8wSwwm7LRUAB40i7YegUNM4XveBVu-vsRRndPTV6nhOVF-1f": [
+        "Kalista",
+        "Talon",
+        "Aatrox",
+        "Nidalee",
+        "Irelia"
+    ],
+    "x72jS1P9deowQSjbi2qPsWDoqfBVRIszaIKS2Hla6To6EA6x": [
+        "Khazix",
+        "LeeSin",
+        "Yone",
+        "Urgot",
+        "JarvanIV"
+    ],
+    "gkZhR0PVZ7v4Bn2VaDZ4VIFpb7F6B95eZjNQpqBvdaR611lc": [
+        "Ezreal",
+        "Garen",
+        "Diana",
+        "Ashe",
+        "Olaf"
+    ],
+    "3-t6P66EYshjQ9QM0o3M-q9vmjcQBo7hc3AIuaEM2sHBqBbK": [
+        "Brand",
+        "Twitch",
+        "Varus",
+        "Camille",
+        "Singed"
+    ],
+    "hMU4nvBn71p8ReRQ-wWrOTmVGk7JiWFnuaX6xxMkifR0MP13": [
+        "Graves",
+        "Volibear",
+        "Shen",
+        "Akali",
+        "Kalista"
+    ],
+    "XdM6CUbzv1-LQ8Lsr_i7i5DjMCF1q6nDuzHiKp95sLs0i7c1": [
+        "Belveth",
+        "Jax",
+        "Leblanc",
+        "Naafiri",
+        "MonkeyKing"
+    ],
+    "RSPgEgmTzSudVfWhQc3ISGPHIftTVTN1vtktA88ohkmjBgt_": [
+        "Lucian",
+        "Galio",
+        "Leblanc",
+        "Chogath",
+        "Kassadin"
+    ],
+    "BJjWeCfY-f9TbZ_myfk7pjhis60wlqVkwN8OleMkJk8nOa2U": [
+        "Rammus",
+        "Fiora",
+        "MissFortune",
+        "XinZhao",
+        "Evelynn"
+    ],
+    "VPD0GxzApOjIUZUxJt3h7Gx2WjVWlR35Gk0qnYtMrom_tXc8": [
+        "LeeSin",
+        "Fizz",
+        "MissFortune",
+        "Akali",
+        "Jhin"
+    ],
+    "g0Hq17f99iYIkTz0_EGH5TFLzMEBHN5--u3RvfFO43UeTOHV": [
+        "Taric",
+        "MasterYi",
+        "Shyvana",
+        "JarvanIV",
+        "Shaco"
+    ],
+    "RlteVSsUoqys8lDwryx8edLe6V2uK_Ii0_j2wmNqAfWXJZB8": [],
+    "AUoA2lFENDCN5JXEgIed-8EfzXpUc8DwjJdsMHPv6qn6KnOh": [
+        "Camille",
+        "Garen",
+        "Chogath",
+        "Volibear",
+        "Irelia"
+    ],
+    "ZNX-1_F1pRDEzKyqzGEXhFjUZHn8tHkITn2otIP4fuucFqFu": [
+        "MonkeyKing",
+        "Naafiri",
+        "Riven",
+        "Leblanc",
+        "Diana"
+    ],
+    "boVNAgoEMYOG3ZOPDqGLF8EKnfxYtqQZQxYrmD0FQxY2APc8": [
+        "Kayn",
+        "Ezreal",
+        "Ahri",
+        "Ekko",
+        "Vladimir"
+    ],
+    "weJ-70B48f-Jdp_uxfCTJZ_Fcib4MJlebY6CmLHgrDt8ZZ_t": [
+        "Sylas",
+        "Morgana",
+        "Senna",
+        "Kaisa",
+        "Ornn"
+    ],
+    "h7kjNcBmh7EtkwUi6QeoqlIUOBw8MZeAfuY75fsFkig-R7uJ": [
+        "LeeSin",
+        "Kindred",
+        "Evelynn",
+        "Blitzcrank",
+        "Darius"
+    ],
+    "NDM7REx52IlSGRvV340CWGlPobUoVcbwJHBK9r4OucqUkO0d": [
+        "Pantheon",
+        "Pyke",
+        "Ezreal",
+        "RekSai",
+        "Caitlyn"
+    ],
+    "LcqIr6tCcYCbJlK8W9rdntKiupeEZQtt5_NzXy7OPwMTAVIp": [
+        "Talon",
+        "Kaisa",
+        "Sylas",
+        "Neeko",
+        "JarvanIV"
+    ],
+    "jKzEX5Fb-jSbTfurY8cQ3ptTxFUgd1fs_qgz1hQtqTd4J0Wr": [
+        "Leblanc",
+        "Lucian",
+        "Blitzcrank",
+        "Vayne",
+        "Veigar"
+    ],
+    "AOSig0hDnLU-ze5o_VZMEr8V6LC6QA8l1YEkwFA_tFKJtZBL": [
+        "Neeko",
+        "Renekton",
+        "Xerath",
+        "Ezreal",
+        "Irelia"
+    ],
+    "ZTKjVvbsXEFcHjOiYHB774gW9dbNq8yAXDkR6YyFzAmsk08R": [
+        "Fiddlesticks",
+        "Yone",
+        "Nunu",
+        "Fiora",
+        "Tristana"
+    ],
+    "_eZwmwIq_-oA8PRcz0tQMC4E6YwOam2AZMKvVpPHaYkDpoxm": [
+        "Swain",
+        "Irelia",
+        "Yasuo",
+        "Diana",
+        "Cassiopeia"
+    ],
+    "M67uNxlKfpiZFAzsyvqcczqIV8-H_QGmzWcLvrytE_dDzCQE": [
+        "Shen",
+        "Xerath",
+        "Sion",
+        "Nunu",
+        "Akali"
+    ],
+    "2snxAeMiD63npMTcRUFMlZr0jtVNU1XosHSXI6wdsVCY1rOz": [
+        "Karma",
+        "Shen",
+        "Graves",
+        "Ashe",
+        "Gragas"
+    ],
+    "boe9Lehk22_9JGJTzi8xNyo1VVd1wWqtU4WAQzBtBvvAhqPs": [
+        "TahmKench",
+        "Nasus",
+        "TwistedFate",
+        "Sion",
+        "Urgot"
+    ],
+    "u5RhzYSJQassZSFehNv3ss7nw_A8KkDTn4TTAtwFUNPEyaLe": [
+        "Ashe",
+        "Sivir",
+        "Fiddlesticks",
+        "Xayah",
+        "Samira"
+    ],
+    "1Y8vjO6RUWQRlLOLTee2V0EIu58l8DetnuonanJDK4p6Lfu5": [
+        "Ashe",
+        "Talon",
+        "Xayah",
+        "Darius",
+        "Pyke"
+    ],
+    "EeomGeStBgTfTjIoZYsTHJ2vQOIfb_FRwO1WK1WPIcVoTjUc": [
+        "Akshan",
+        "Ekko",
+        "Aphelios",
+        "Sylas",
+        "Irelia"
+    ],
+    "kA--mNFB8Fk9Y9IGd3ELYib2-QFo2t3OdM_XjwQ3xopq_APG": [
+        "Annie",
+        "Viktor",
+        "Irelia",
+        "Lissandra",
+        "Neeko"
+    ],
+    "pp8pRuiWbVqWZXAjOWXo4d_mYvKKr2MXbAKvhJ6hPf7fsdBu": [
+        "Gnar",
+        "Malphite",
+        "Amumu",
+        "Akali",
+        "Singed"
+    ],
+    "7_OHrkIL1nps5Bo7sE-svmt_BaGCsfdwDbdxUCzEEhyucXXG": [
+        "Viego",
+        "Gnar",
+        "Kalista",
+        "Kindred",
+        "MonkeyKing"
+    ],
+    "FKFxu-cE5Mkl4lS3E7mCpDYIEYgI53CEvQpmssqo_gsA3LrB": [
+        "Nautilus",
+        "Zyra",
+        "Alistar",
+        "Anivia",
+        "Jhin"
+    ],
+    "YFL8Kx2ilVKaWCIbanh9TWGFRJXhec7A70c3haOxfgeu9vKG": [
+        "Darius",
+        "Lux",
+        "Kaisa",
+        "Ashe",
+        "Pyke"
+    ],
+    "636pVg8GKMbUsM0P0tC3zHKu7qNOL4SVQfnp-11ExYSUp8KU": [
+        "Graves",
+        "Caitlyn",
+        "Ahri",
+        "Shaco",
+        "Xerath"
+    ],
+    "vLBmHcrSIa5mMV6QyMM4VjTZkavyfRUjGt_4AW_qlimVcFll": [
+        "Amumu",
+        "Kayle",
+        "Ezreal",
+        "Sivir",
+        "Nilah"
+    ],
+    "QgUNdDQf5ZTKI0tDcCy7pQuFIHbppiE7ZYOY8Xaz39O_seLE": [
+        "Janna",
+        "Cassiopeia",
+        "Ekko",
+        "Senna",
+        "Annie"
+    ],
+    "l8QRP5OOq81GY93P5pD_mKK60kNe6CKa5G8ojpbHHAvvDm1I": [
+        "Brand",
+        "Syndra",
+        "Ashe",
+        "Cassiopeia",
+        "Caitlyn"
+    ],
+    "8CsQTYr84GsruHIWBjwVWRJkBIsTOwLzX-36EvOSwmYHMN0X": [
+        "Renekton",
+        "Rumble",
+        "Yone",
+        "Tryndamere",
+        "Viego"
+    ]
 }

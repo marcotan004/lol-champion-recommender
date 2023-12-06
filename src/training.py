@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 import os
 
-from surprise import Dataset, Reader, accuracy, KNNWithMeans, SVD, NormalPredictor, dump
+from surprise import Dataset, Reader, KNNBaseline, SVDpp, NormalPredictor, dump
 from collections import defaultdict
 
 filename = '../data/champion.json'
@@ -30,19 +30,21 @@ skipped = {}
 ratings = [] # list of items
 r = np.zeros((len(data.keys()), len(champion_list)))
 percent = 0.9
+user_pool = [] # users that we should make predictions for
 for i, key in enumerate(data.keys()):
-    used = []
-    skipped[key] = []
+    used = [] # used champions
+    if i > (len(data.keys())*percent):
+        skipped[key] = []
     for j, entry in enumerate(data[key]):
         if j == 0:
             # sorted in descending order
             maximum = entry['championPoints']
         if i > (len(data.keys())*percent):
-            if j + 1 > 10:
-                continue
-            if j + 1 > 5:
-                item = id_champ_map[entry['championId']]['champion']
-                skipped[key].append(id_champ_map[entry['championId']]['champion']) # add key, item, and rank #
+            if j + 1 > 14:
+                user_pool.append(key)
+                break
+            if j + 1 > 7: # testing set where we look at users with only top 7 champions available with other ratings hidden from model
+                skipped[key].append(id_champ_map[entry['championId']]['champion'])
             else:
                 score = entry['championPoints']/maximum
                 item = id_champ_map[entry['championId']]['champion']
@@ -53,49 +55,17 @@ for i, key in enumerate(data.keys()):
             item = id_champ_map[entry['championId']]['champion']
             ratings.append([key, item, score])
             used.append(item)
-# set unknown champion IDs to zero
+
+    # set unknown champion IDs to zero
     for champ in champion_list:
         if champ not in used:
             ratings.append([key, champ, 0])
 
-filename = '../data/complete_mastery_info.json'
-with open(filename, 'r') as f:
-    data = json.load(f)
-
-ratings = [] # list of items
-r = np.zeros((len(data.keys()), len(champion_list)))
-percent = 0.9
-user_pool = [] # users that we should make predictions for
-for i, key in enumerate(data.keys()):
-    used = [] # used champions
-    
-
-    for j, entry in enumerate(data[key]):
-        if j == 0:
-            # sorted in descending order
-            maximum = entry['championPoints']
-        if i > (len(data.keys())*percent):
-            if j + 1 > 7: # testing set where we look at users with only top 5 champions available
-                user_pool.append(key)
-                break
-            else:
-                score = entry['championPoints']/maximum
-                item = id_champ_map[entry['championId']]['champion']
-                ratings.append([key, item, score])
-                used.append(item)
-        else:
-            score = entry['championPoints']/maximum
-            item = id_champ_map[entry['championId']]['champion']
-            ratings.append([key, item, score])
-            used.append(item)
-
-# set unknown champion IDs to zero
-for champ in champion_list:
-    if champ not in used:
-        ratings.append([key, champ, 0])
-
 print(f'users: {i}')
 print(f'ratings: {len(ratings)}')
+
+with open('objects/next7.json', 'w', newline='') as f:
+    json.dump(skipped, f, indent=4)
 with open('../data/final_data.csv', 'w', newline='') as f:
     writer = csv.writer(f)
     writer.writerows(ratings)
@@ -135,7 +105,7 @@ sim_options = {
     "user_based": False
 }
 
-algs = [KNNWithMeans(sim_options=sim_options), SVD(), NormalPredictor()]
+algs = [KNNBaseline(sim_options=sim_options, k=25), SVDpp(n_factors=10), NormalPredictor()]
 labels = ['KNN', 'SVD', 'Random']
 
 for (alg, l) in zip(algs, labels):

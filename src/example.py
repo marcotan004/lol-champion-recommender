@@ -22,13 +22,16 @@ def get_top_n(uid, algo, champion_list, champs_played, n=10, ignore=5):
 
     return top_n[uid]
 
-def recommendChampion(uid, champs_played, champion_list, algo, n=10, ignore=5):
+def recommendChampion(uid, champs_played, champion_list, algo, skipped, n=10, ignore=5):
     print(f'User ID: {uid}')
     print(f'Most played: {champs_played[:ignore]}')
     count = 0
-    print('Recommended: ', end='')
+    ret = []
     for rec in get_top_n(uid, algo, champion_list, champs_played, n=n, ignore=ignore):
-        print(rec[0], end=', ')
+        ret.append(rec[0])
+    print(f'Recommended: {ret}')
+    print(f'Actual: {skipped[uid]}') # the user's next 7 most played champions after recommended
+    print(f'Overlap: {[x for x in ret if x in skipped[uid]]}')
     print()
     print()
 if __name__ == "__main__":
@@ -41,6 +44,9 @@ if __name__ == "__main__":
     
     with open('objects/most_played.json', 'r') as f:
         most_played = json.load(f)
+    
+    with open('objects/next7.json', 'r') as f:
+        skipped = json.load(f)
     
     __, svd = dump.load('model/SVD')
     __, knn = dump.load('model/KNN')
@@ -55,7 +61,7 @@ if __name__ == "__main__":
     for i in test_IDS:
         for (alg, l) in zip(algs, labels):
             print(f'Algorithm {l}')
-            recommendChampion(i, most_played[i], champion_list, alg, n=7, ignore=10)
+            recommendChampion(i, most_played[i], champion_list, alg, skipped, n=7, ignore=7)
         
         print()
         print()
