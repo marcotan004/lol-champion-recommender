@@ -11,7 +11,15 @@ from src.data_collection.request.mastery_loader import get_mastery_data
 
 
 class MasteryDataLoader:
+    """
+    MasteryDataLoader takes mastery data from a target directory and processes it into a format good for the MasteryTrainer.
+    """
     def __init__(self, data_directory: str, percent: float = 0.9):
+        """
+        Initialize a new instance of the MasteryDataLoader class.
+        :param data_directory: directory containing the mastery data
+        :param percent: percent of data to use as training data
+        """
         self.TRAINING_CHAMPIONS_KEPT = 7
         self.TRAINING_CHAMPIONS_POOL = 7
 
@@ -22,6 +30,7 @@ class MasteryDataLoader:
         self.champion_ratings = []
         self.training_user_ids = []
         self.id_to_champion = load_champion_json()
+        self.most_played = defaultdict(list)
         self.champion_list = [self.id_to_champion[champ_id] for champ_id in self.id_to_champion]
 
     def add_missing_champions(self, user_id: str, seen_champions: set) -> None:
@@ -35,6 +44,7 @@ class MasteryDataLoader:
         for champ in self.champion_list:
             if champ not in seen_champions:
                 self.champion_ratings.append([user_id, champ, 0])
+                self.most_played[user_id].append(champ)
 
     def process_champion_mastery(self, user_id: int, mastery_entry: dict, maximum: float) -> None:
         """
@@ -46,6 +56,7 @@ class MasteryDataLoader:
         """
         score = mastery_entry['championPoints'] / maximum
         champion_name = self.id_to_champion[str(mastery_entry['championId'])]
+        self.most_played[user_id].append(champion_name)
         self.champion_ratings.append([user_id, champion_name, score])
 
     def process_user(self, user_index, user_id, user_mastery_data: dict) -> None:
@@ -106,6 +117,14 @@ class MasteryDataLoader:
         """
         with open(FilePaths.training_user_ids_file(), 'w', newline='') as f:
             json.dump(self.training_user_ids, f, indent=4)
+
+    def save_most_played_data(self):
+        """
+        Save most played champions for a user to a file.
+        :return:
+        """
+        with open(FilePaths.most_played_champions_per_user_file(), 'w', newline='') as f:
+            json.dump(self.most_played, f, indent=4)
 
     def save_all_data(self):
         """

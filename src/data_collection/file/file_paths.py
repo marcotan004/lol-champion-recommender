@@ -73,3 +73,10 @@ class FilePaths:
         :return: training user IDs filepath
         """
         return os.path.join(FilePaths.output_directory(), 'training_user_ids.json')
+
+    @staticmethod
+    def most_played_champions_per_user_file() -> str:
+        """
+        :return: most played champions per user file
+        """
+        return os.path.join(FilePaths.output_directory(), 'most_played_champions_per_user.json')
