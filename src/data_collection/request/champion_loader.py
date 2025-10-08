@@ -1,3 +1,4 @@
+import json
 import os
 
 import requests
@@ -13,8 +14,8 @@ def process_champion_json(request: Response) -> dict:
     :param request:
     :return: Dictionary of needed champion data
     """
-    json = request.json()
-    saved_data = {int(json['data'][key]['key']): json['data'][key]['name'] for key in json['data']}
+    champion_data = request.json()
+    saved_data = {int(champion_data['data'][key]['key']): champion_data['data'][key]['name'] for key in champion_data['data']}
     return saved_data
 
 
@@ -34,3 +35,14 @@ def download_champion_json() -> None:
         save_to_json(saved_data, FilePaths.champion_info())
     else:
         print(request.reason)
+
+def load_champion_json() -> dict:
+    """
+    Loads champion JSON from local file and returns it as dictionary.
+    :return:
+    """
+    filename = FilePaths.champion_info()
+    with open(filename, 'r') as f:
+        champ_data = json.load(f)
+
+    return champ_data
