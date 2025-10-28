@@ -48,7 +48,22 @@ class FilePaths:
 
     @staticmethod
     def output_directory() -> str:
+        """
+        Returns the path to the processed mastery data output directory.
+        :return:
+        """
         path = os.path.join(FilePaths.data_directory(), 'output')
+        if not os.path.exists(path):
+            os.makedirs(path)
+        return path
+
+    @staticmethod
+    def model_directory() -> str:
+        """
+        Returns the path to the directory containing models.
+        :return:
+        """
+        path = os.path.join(FilePaths.data_directory(), 'model')
         if not os.path.exists(path):
             os.makedirs(path)
         return path
@@ -80,3 +95,27 @@ class FilePaths:
         :return: most played champions per user file
         """
         return os.path.join(FilePaths.output_directory(), 'most_played_champions_per_user.json')
+
+    @staticmethod
+    def viz_data_path_directory() -> str:
+        """
+        :return: path to the directory containing data for visualization
+        """
+        path = os.path.join(FilePaths.data_directory(), 'viz_data')
+        if not os.path.exists(path):
+            os.makedirs(path)
+        return path
+
+    @staticmethod
+    def viz_player_ids_file() -> str:
+        """
+        :return: contains player ids used in data visualization
+        """
+        return os.path.join(FilePaths.viz_data_path_directory(), 'player_ids.json')
+
+    @staticmethod
+    def mastery_matrix_file() -> str:
+        """
+        :return: contains mastery matrix file for data visualization
+        """
+        return os.path.join(FilePaths.viz_data_path_directory(), 'mastery_matrix.json')
