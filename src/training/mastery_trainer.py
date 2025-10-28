@@ -33,6 +33,6 @@ class MasteryTrainer:
         for (algorithm, label) in zip(self.algorithms, self.labels):
             algo = algorithm
             algo.fit(trainset)
-            file_name = os.path.expanduser("model/" + label)
+            file_name = os.path.join(FilePaths.model_directory() ,label)
             print(f'saving {label}...')
             dump.dump(file_name, algo=algo)

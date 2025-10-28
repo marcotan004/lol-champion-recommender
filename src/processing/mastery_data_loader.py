@@ -5,6 +5,7 @@ from collections import defaultdict
 
 import numpy as np
 
+import constants
 from src.data_collection.file.file_paths import FilePaths
 from src.data_collection.request.champion_loader import load_champion_json
 from src.data_collection.request.mastery_loader import get_mastery_data
@@ -20,9 +21,6 @@ class MasteryDataLoader:
         :param data_directory: directory containing the mastery data
         :param percent: percent of data to use as training data
         """
-        self.TRAINING_CHAMPIONS_KEPT = 7
-        self.TRAINING_CHAMPIONS_POOL = 7
-
         self.mastery_data = get_mastery_data(data_directory)
         self.percent = percent
         self.max_user_index = len(self.mastery_data.keys()) * self.percent
@@ -75,13 +73,13 @@ class MasteryDataLoader:
         for nth_most_played, mastery_entry in enumerate(self.mastery_data[user_id]):
             champion_name = self.id_to_champion[str(mastery_entry['championId'])]
 
-            if is_training and nth_most_played >= self.TRAINING_CHAMPIONS_KEPT:
-                if nth_most_played >= self.TRAINING_CHAMPIONS_POOL + self.TRAINING_CHAMPIONS_KEPT:
+            if is_training and nth_most_played >= constants.TRAINING_CHAMPIONS_KEPT:
+                if nth_most_played >= constants.TRAINING_CHAMPIONS_POOL + constants.TRAINING_CHAMPIONS_KEPT:
                     self.training_user_ids.append(user_id)
                     return
-                elif nth_most_played >= self.TRAINING_CHAMPIONS_KEPT:  # testing set where we look at users with only top 7 champions available with other ratings hidden from model
+                elif nth_most_played >= constants.TRAINING_CHAMPIONS_KEPT:  # testing set where we look at users with only top 7 champions available with other ratings hidden from model
                     self.missing_champions_for_training_users[user_id].append(champion_name)
-            else:
+            elif nth_most_played < constants.NUMBER_OF_CHAMPIONS_TO_CONSIDER:
                 self.process_champion_mastery(user_id, mastery_entry, maximum)
                 seen_champions.add(champion_name)
 
@@ -134,3 +132,4 @@ class MasteryDataLoader:
         self.save_skipped_users()
         self.save_ratings_data()
         self.save_training_user_ids()
+        self.save_most_played_data()
