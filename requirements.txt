@@ -1,3 +1,4 @@
+matplotlib
 anaconda-cli-base==0.5.4
 anaconda-client==1.13.0
 annotated-types==0.7.0

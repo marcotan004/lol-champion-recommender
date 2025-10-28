@@ -111,11 +111,11 @@ class FilePaths:
         """
         :return: contains player ids used in data visualization
         """
-        return os.path.join(FilePaths.viz_data_path_directory(), 'player_ids.json')
+        return os.path.join(FilePaths.viz_data_path_directory(), 'player_ids.csv')
 
     @staticmethod
     def mastery_matrix_file() -> str:
         """
         :return: contains mastery matrix file for data visualization
         """
-        return os.path.join(FilePaths.viz_data_path_directory(), 'mastery_matrix.json')
+        return os.path.join(FilePaths.viz_data_path_directory(), 'mastery_matrix.csv')
